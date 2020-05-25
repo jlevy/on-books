@@ -3,9 +3,12 @@
 # On Books
 
 This is a collection of readings and notes on the past, present, and future of books.
-The topic is too vast to aspire for completeness, but the idea here is to identify notable
-or highly useful books, articles, and resources that relate to every stage of writing and
-publishing books—and the technologies supporting it in the future.
+The topic is vast, but the idea here is to identify notable or highly useful books,
+articles, and resources that relate to every stage of writing and publishing books—and the
+technologies supporting it in the future.
+
+🚧 This list is far from complete.
+Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
 
 ## History and General
 
@@ -124,6 +127,14 @@ publishing books—and the technologies supporting it in the future.
 - 📖Writer’s Digest Books,
   [*Guide to Literary Agents 2020: The Most Trusted Guide to Getting Published*](https://www.amazon.com/Guide-Literary-Agents-2020-Published-ebook/dp/B083RZFQ8P)
 
+## Design and Typography
+
+- 📖Robert Bringhurst,
+  [*The Elements of Typographic Style*](https://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326),
+  2002 — A definitive and respected modern work.
+- [*Buttrick’s Practical Typography*](https://practicaltypography.com/) — Likely the best brief,
+  online resource on typography for beginners and practitioners.
+
 ## The Industry
 
 - 📖[*The Bookman’s Glossary*](https://www.amazon.com/Bookmans-Glossary-Jean-Peters/dp/0835216861/)
@@ -149,10 +160,14 @@ publishing books—and the technologies supporting it in the future.
   authors
 - 📄[EPUB format overview](https://en.wikipedia.org/wiki/EPUB)
 
-## Author and Editor Toolchain
+## Digital Toolchain
 
+- 📖[*The Not So Short Introduction to LaTeX*](https://tobi.oetiker.ch/lshort/lshort.pdf) — LaTeX
+  and TeX are among the most mature systems for technical typesetting.
+  This is a good overview.
 - 📄Scott Chacon,
   [*Living the Future of Technical Writing*](https://hackernoon.com/living-the-future-of-technical-writing-2f368bd0a272)
+  — An overview from a technical author on writing using Git workflows.
 - [O’Reilly Atlas toolchain](https://docs.atlas.oreilly.com/)
 
 ## Digital Books and the Future
