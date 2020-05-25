@@ -89,6 +89,12 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
 - 📖Ursula Le Guin,
   [*Steering the Craft: A Twenty-First-Century Guide to Sailing the Sea of Story*](https://www.amazon.com/Steering-Craft-Twenty-First-Century-Guide-Sailing/dp/0544611616),
   2015.
+- 📖Margaret Atwood,
+  [*Negotiating with the Dead: A Writer on Writing*](https://www.amazon.com/Negotiating-Dead-Writing-Margaret-Atwood/dp/1400032601),
+  2003.
+- 📖Virginia Wolf,
+  [*A Room of One’s Own*](https://www.amazon.com/Room-Ones-Own-Virginia-Woolf/dp/1614272778),
+  reprint of 1929 edition.
 
 ## Editing
 
