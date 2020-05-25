@@ -83,15 +83,15 @@ or highly useful books, articles, and resources.
 
 ## Editing
 
-- 📖Amy Einsohn,
-  [*The Copyeditor’s Handbook: A Guide for Book Publishing and Corporate Communications*](https://www.amazon.com/Copyeditors-Handbook-Publishing-Corporate-Communications/dp/0520271564/),
-  3rd edition, 2011.
 - 📖Peter Ginna,
   [*What Editors Do: The Art, Craft, and Business of Book Editing*](https://www.amazon.com/What-Editors-Do-Business-Publishing/dp/022629997X),
   2017.
 - 📖Scott Norton,
   [*Developmental Editing: A Handbook for Freelancers, Authors, and Publishers*](https://www.amazon.com/Developmental-Editing-Freelancers-Publishers-Publishing/dp/0226595153/),
   2011.
+- 📖Amy Einsohn,
+  [*The Copyeditor’s Handbook: A Guide for Book Publishing and Corporate Communications*](https://www.amazon.com/Copyeditors-Handbook-Publishing-Corporate-Communications/dp/0520271564/),
+  3rd edition, 2011.
 - 📖Benjamin Dreyer,
   [*Dreyer’s English: An Utterly Correct Guide to Clarity and Style*](https://www.amazon.com/Dreyers-English-Utterly-Correct-Clarity-ebook/dp/B07CR1L3ZN),
   2019.
@@ -154,45 +154,64 @@ or highly useful books, articles, and resources.
 - 📖Hugh Mcguire, Brian Oleary,
   [*Book: A Futurist’s Manifesto: A Collection Of Essays From The Bleeding Edge Of Publishing*](https://www.amazon.com/Book-Futurists-Manifesto-Collection-Publishing-dp-1449305601),
   2012 — Available free [in several chapters](https://book.pressbooks.com/):
-  1. [Context, not Container](https://book.pressbooks.com/chapter/context-not-container-brian-oleary)
-     (Brian O’Leary)
-  2. [Distribution Everywhere](https://book.pressbooks.com/chapter/distribution-everywhere-andrew-savikas)
-     (Andrew Savikas)
-  3. [What We Can Do With “Books”](https://book.pressbooks.com/chapter/what-we-can-do-with-books-liza-daly)
-     (Liza Daly)
-  4. [What we Talk About When We Talk About Metadata](https://book.pressbooks.com/chapter/metadata-laura-dawson)
-     (Laura Dawson)
-  5. [Analyzing the Business Case for DRM](https://book.pressbooks.com/chapter/drm-kirk-biglione)
-     (Kirk Biglione)
-  6. [Tools of the Digital Workflow](https://book.pressbooks.com/chapter/digital-workflow-brian-oleary)
-     (Brian O’Leary)
-  7. [Designing Books in the Digital Age](https://book.pressbooks.com/chapter/book-design-in-the-digital-age-craig-mod)
-     (Craig Mod)
-  8. Why the Book and the Internet Will Merge (Hugh McGuire)
-  9. Web Literature:
-     Publishing on the Social Web (Eli James)
-  10. Making Books Out of Words (Erin McKean)
-  11. Why Digital Books Will Become Writable (Terry Jones)
-  12. Above the Silos:
-      Social Reading in the Age of Mechanical Barriers (Travis Alber & Aaron Miller)
-  13. User Experience, Reader Experience (Brett Sandusky)
-  14. App, Meet Book (Ron Martinez)
-  15. The Curation of Obscurity (Peter Brantley)
-  16. A Reader’s Bill of Rights (Kassia Krozser)
-  17. Communities of Writers (Jürgen Fauth, Fictionaut)
-  18. On the Therapist’s Couch:
-      Books as Apps, Really?
-      (Neal Hoskins, WingedChariot)
-  19. The Engagement Economy (Bobby Gruenewald, YouVersion)
-  20. How Do Books Get Discovered?
-      (Patrick Brown, Kyusik Chung, and Otis Chandler, Goodreads)
-  21. The Surprising Power of “Little Data” (Peter Collingridge, Bookseer)
-  22. Exaggerations and Perversions (Valla Vakili, Small Demons)
-  23. Pain and Its Alleviation (John Oakes, OR Books)
-  24. The End of the Public Library (As We Knew It)?
-      (Eli Neiburger, Ann Arbour District Library)
-  25. Now Is the Time for Experiments (Ian Barker, Symtext)
-  26. The Forgotten Consumer (Jacob Lewis, Figment)
-  27. A Conversation That Can’t Be Controlled (Sarah Wendell, Smart Bitches Trashy Books)
+  1. The Setup: Approaches to the Digital Present
+     - [Context, not Container](https://book.pressbooks.com/chapter/context-not-container-brian-oleary)
+       (Brian O’Leary)
+     - [Distribution Everywhere](https://book.pressbooks.com/chapter/distribution-everywhere-andrew-savikas)
+       (Andrew Savikas)
+     - [What We Can Do With “Books”](https://book.pressbooks.com/chapter/what-we-can-do-with-books-liza-daly)
+       (Liza Daly)
+     - [What we Talk About When We Talk About Metadata](https://book.pressbooks.com/chapter/metadata-laura-dawson)
+       (Laura Dawson)
+     - [Analyzing the Business Case for DRM](https://book.pressbooks.com/chapter/drm-kirk-biglione)
+       (Kirk Biglione)
+     - [Tools of the Digital Workflow](https://book.pressbooks.com/chapter/digital-workflow-brian-oleary)
+       (Brian O’Leary)
+     - [Designing Books in the Digital Age](https://book.pressbooks.com/chapter/book-design-in-the-digital-age-craig-mod)
+       (Craig Mod)
+  2. The Outlook: What Is Next for the Book?
+     - [Why the Book and the Internet Will Merge](https://book.pressbooks.com/chapter/book-and-the-internet-hugh-mcguire)
+       (Hugh McGuire)
+     - [Web Literature: Publishing on the Social Web](https://book.pressbooks.com/chapter/web-literature-eli-james)
+       (Eli James)
+     - [Making Books Out of Words](https://book.pressbooks.com/chapter/books-words-erin-mckean) (Erin
+       McKean)
+     - [Why Digital Books Will Become Writable](https://book.pressbooks.com/chapter/books-databases-terry-jones)
+       (Terry Jones)
+     - [Above the Silos: Social Reading in the Age of Mechanical Barriers](https://book.pressbooks.com/chapter/above-the-silos-travis-alber-aaron-miller)
+       (Travis Alber & Aaron Miller)
+     - [User Experience, Reader Experience](https://book.pressbooks.com/chapter/user-experience-reader-experience-brett-sandusky)
+       (Brett Sandusky)
+     - [App, Meet Book](https://book.pressbooks.com/chapter/app-meet-book-ron-martinez) (Ron
+       Martinez)
+     - [The Curation of Obscurity](https://book.pressbooks.com/chapter/curation-of-obscurity-peter-brantley)
+       (Peter Brantley)
+     - [A Reader’s Bill of Rights](https://book.pressbooks.com/chapter/a-readers-bill-of-rights-kassia-krozser)
+       (Kassia Krozser)
+  3. The Things We Can Do with Books:
+     Projects from the Bleeding Edge
+     - [Communities of Writers](https://book.pressbooks.com/chapter/fictionaut-jurgen-fauth) (Jürgen
+       Fauth, Fictionaut)
+     - [On the Therapist’s Couch: Books as Apps, Really?](https://book.pressbooks.com/chapter/wingedchariot-neal-hoskins)
+       (Neal Hoskins, WingedChariot)
+     - [The Engagement Economy](https://book.pressbooks.com/chapter/youversion-bobby-gruenewald)
+       (Bobby Gruenewald, YouVersion)
+     - [How Do Books Get Discovered?](https://book.pressbooks.com/chapter/goodreads-otis-chandler)
+       (Patrick Brown, Kyusik Chung, and Otis Chandler, Goodreads)
+     - [The Surprising Power of “Little Data”](https://book.pressbooks.com/chapter/bookseer-peter-collingridge)
+       (Peter Collingridge, Bookseer)
+     - [Exaggerations and Perversions](https://book.pressbooks.com/chapter/small-demons-valla-vakili)
+       (Valla Vakili, Small Demons)
+     - [Pain and Its Alleviation](https://book.pressbooks.com/chapter/or-books-john-oakes) (John
+       Oakes, OR Books)
+     - [The End of the Public Library (As We Knew It)?](https://book.pressbooks.com/chapter/ann-arbour-district-library-eli-neiburger)
+       (Eli Neiburger, Ann Arbour District Library)
+     - [Now Is the Time for Experiments](https://book.pressbooks.com/chapter/symtext-ian-barker) (Ian
+       Barker, Symtext)
+     - [The Forgotten Consumer](https://book.pressbooks.com/chapter/figment-jacob-lewis) (Jacob
+       Lewis, Figment)
+     - [A Conversation That Can’t Be Controlled](https://book.pressbooks.com/chapter/smart-bitches-trashy-books-sarah-wendell)
+       (Sarah Wendell, Smart Bitches Trashy Books)
+
 
 - 📄Andy Matuschak, [*Why Books Don’t Work*](https://andymatuschak.org/books/), 2019.
