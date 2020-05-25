@@ -3,17 +3,21 @@
 # On Books
 
 This is a collection of readings and notes on the past, present, and future of books.
-The topic is too vast to aspire for completeness, but the idea here is to link to notable
-or highly useful books, articles, and resources.
+The topic is too vast to aspire for completeness, but the idea here is to identify notable
+or highly useful books, articles, and resources that relate to every stage of writing and
+publishing books—and the technologies supporting it in the future.
 
 ## History and General
 
 - 📖Amaranth Borsuk,
-  [The Book](https://www.amazon.com/Book-MIT-Press-Essential-Knowledge/dp/0262535416) (MIT Press
+  [*The Book*](https://www.amazon.com/Book-MIT-Press-Essential-Knowledge/dp/0262535416) (MIT Press
   Essential Knowledge series), 2018.
 - 📖Andrew Pettegree,
-  [The Book in the Renaissance](https://www.amazon.com/Book-Renaissance-Andrew-Pettegree-dp-0300178212),
+  [*The Book in the Renaissance*](https://www.amazon.com/Book-Renaissance-Andrew-Pettegree-dp-0300178212),
   2011.
+- 📖Andrew Pettegree,
+  [*The Bookshop of the World: Making and Trading Books in the Dutch Golden Age*](https://www.amazon.com/Bookshop-World-Making-Trading-Golden/dp/0300254792),
+  2020.
 - [Wikipedia’s History of Books](https://en.wikipedia.org/wiki/History_of_books)
 
 ## Thinking
@@ -153,6 +157,9 @@ or highly useful books, articles, and resources.
 
 ## Digital Books and the Future
 
+- Jean-Claude Carriare and Umberto Eco,
+  [*This Is Not the End of the Book*](https://www.amazon.com/This-Not-Book-Jean-Claude-Carriare/dp/0810127474),
+  2012
 - 📖Hugh Mcguire, Brian Oleary,
   [*Book: A Futurist’s Manifesto: A Collection Of Essays From The Bleeding Edge Of Publishing*](https://www.amazon.com/Book-Futurists-Manifesto-Collection-Publishing-dp-1449305601),
   2012 — Available free [in several chapters](https://book.pressbooks.com/):
@@ -214,6 +221,4 @@ or highly useful books, articles, and resources.
        Lewis, Figment)
      - [A Conversation That Can’t Be Controlled](https://book.pressbooks.com/chapter/smart-bitches-trashy-books-sarah-wendell)
        (Sarah Wendell, Smart Bitches Trashy Books)
-
-
 - 📄Andy Matuschak, [*Why Books Don’t Work*](https://andymatuschak.org/books/), 2019.
