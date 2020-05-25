@@ -119,6 +119,22 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
   2014 — Most style guides omit some punctuation nuances;
   this book isÂ the most careful and detailed of its kind.
 
+## Book Design
+
+- Wikipedia on [book design](https://en.wikipedia.org/wiki/Book_design) including
+  [the parts of a book](https://en.wikipedia.org/wiki/Book_design#Structure).
+- 📖Keith Houston,
+  [*The Book: A Cover-to-Cover Exploration of the Most Powerful Object of Our Time*](https://www.amazon.com/Book-Cover-Cover-Exploration-Powerful-ebook/dp/B016CAJJAS),
+  2016.
+
+## Typography
+
+- 📖Robert Bringhurst,
+  [*The Elements of Typographic Style*](https://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326),
+  2002 — A definitive and respected modern work.
+- [*Buttrick’s Practical Typography*](https://practicaltypography.com/) — Likely the best brief,
+  online resource on typography for beginners and practitioners.
+
 ## For Authors and Self-Publishers
 
 - 📖Jane Friedman,
@@ -138,18 +154,18 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
 - 📖Writer’s Digest Books,
   [*Guide to Literary Agents 2020: The Most Trusted Guide to Getting Published*](https://www.amazon.com/Guide-Literary-Agents-2020-Published-ebook/dp/B083RZFQ8P)
 
-## Design and Typography
-
-- 📖Robert Bringhurst,
-  [*The Elements of Typographic Style*](https://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326),
-  2002 — A definitive and respected modern work.
-- [*Buttrick’s Practical Typography*](https://practicaltypography.com/) — Likely the best brief,
-  online resource on typography for beginners and practitioners.
-
 ## The Industry
 
+- Wikipedia:
+  [Stages of publishing](https://en.wikipedia.org/wiki/Publishing#Stages_of_Publishing)
+- About 60% of English-language books are produced through the “Big Five” publishing houses:
+  [Penguin Random House](https://en.wikipedia.org/wiki/Penguin_Random_House) ([Bertelsmann](https://en.wikipedia.org/wiki/Bertelsmann_Stiftung)),
+  [Hachette](https://en.wikipedia.org/wiki/Hachette_Book_Group_USA) ([Lagardère](https://en.wikipedia.org/wiki/Lagard%C3%A8re_Group)),
+  [HarperCollins](https://en.wikipedia.org/wiki/HarperCollins) ([News Corp](https://en.wikipedia.org/wiki/News_Corp_(2013%E2%80%93present))),
+  [Simon & Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster) ([National Amusements](https://en.wikipedia.org/wiki/National_Amusements))
+  and [Macmillan](https://en.wikipedia.org/wiki/Macmillan_Publishers) ([Holtzbrinck](https://en.wikipedia.org/wiki/Holtzbrinck_Publishing_Group))[^wiki_book_publishing]
 - 📖[*The Bookman’s Glossary*](https://www.amazon.com/Bookmans-Glossary-Jean-Peters/dp/0835216861/)
-  (the classic 20th century reference by Bowker)
+  — The classic 20th century reference by Bowker.
 - 📖[*The Business of Books: How the International Conglomerates Took Over Publishing and Changed the Way We Read*](https://www.amazon.com/Business-Books-International-Conglomerates-Publishing/dp/185984362X)
   by Andre Schiffrin, 2001.
 - 📄Keith Gessen,
@@ -248,3 +264,5 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
      - [A Conversation That Can’t Be Controlled](https://book.pressbooks.com/chapter/smart-bitches-trashy-books-sarah-wendell)
        (Sarah Wendell, Smart Bitches Trashy Books)
 - 📄Andy Matuschak, [*Why Books Don’t Work*](https://andymatuschak.org/books/), 2019.
+
+[^wiki_book_publishing]: <https://en.wikipedia.org/wiki/Publishing#Book_publishing>
