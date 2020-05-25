@@ -91,6 +91,10 @@ or highly useful books, articles, and resources.
 - 📖S.K. Quinn,
   [*Indie Author Survival Guide*](https://www.amazon.com/Indie-Author-Survival-Guide-Second/dp/1512090042),
   2nd edition, 2015.
+- 📖Writer’s Digest Books,
+  [*Writer’s Market 2020: The Most Trusted Guide to Getting Published*](https://www.amazon.com/Writers-Market-2020-Trusted-Published-ebook/dp/B07YJZZGW4)
+- 📖Writer’s Digest Books,
+  [*Guide to Literary Agents 2020: The Most Trusted Guide to Getting Published*](https://www.amazon.com/Guide-Literary-Agents-2020-Published-ebook/dp/B083RZFQ8P)
 
 ## The Industry
 
