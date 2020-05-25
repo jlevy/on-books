@@ -89,7 +89,18 @@ notable or highly useful books and resources.
   [What Is the Business of Literature?](https://www.vqronline.org/articles/what-business-literature),
   VQR, Spring 2013.
 
-## The Toolchain
+## Ebooks
+
+- [Are ebooks dying or thriving? The answer is yes](https://qz.com/1240924/are-ebooks-dying-or-thriving-the-answer-is-yes/),
+  2018.
+- [The 2010s were supposed to bring the ebook revolution. It never quite came](https://www.vox.com/culture/2019/12/23/20991659/ebook-amazon-kindle-ereader-department-of-justice-publishing-lawsuit-apple-ipad),
+  2019.
+- [The E-Reader Device Is Dying A Rapid Death](https://justpublishingadvice.com/the-e-reader-device-is-dying-a-rapid-death/),
+  2020.
+- [A short comparison of EPUB vs MOBI](https://blog.reedsy.com/epub-vs-mobi-vs-pdf/) for authors
+- [EPUB format overview](https://en.wikipedia.org/wiki/EPUB)
+
+## Author and Editor Toolchain
 
 - Scott Chacon,
   [*Living the Future of Technical Writing*](https://hackernoon.com/living-the-future-of-technical-writing-2f368bd0a272)
@@ -141,4 +152,4 @@ notable or highly useful books and resources.
   26. The Forgotten Consumer (Jacob Lewis, Figment)
   27. A Conversation That Can’t Be Controlled (Sarah Wendell, Smart Bitches Trashy Books)
 
-- Andy Matuschak, [*Why Books Don’t Work*](https://andymatuschak.org/books/), 2019
+- Andy Matuschak, [*Why Books Don’t Work*](https://andymatuschak.org/books/), 2019.
