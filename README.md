@@ -31,9 +31,9 @@ or highly useful books, articles, and resources.
 - 📖William Zinsser,
   [*On Writing Well: The Classic Guide to Writing Nonfiction*](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction-dp-0060891548/dp/0060891548)
   (30th anniversary edition), 2016.
-- 📖Jefferson D. Bates,
-  [*Writing with Precision: How to Write So That You Cannot Possibly Be Misunderstood*](https://www.amazon.com/Writing-Precision-Cannot-Possibly-Misunderstood/dp/0140288538),
-  2000.
+- 📖John McPhee,
+  [*Draft No. 4: On the Writing Process*](https://www.amazon.com/Draft-No-4-Writing-Process/dp/0374537976/),
+  2018.
 - 📖George D. Gopen,
   [*The Sense of Structure: Writing from the Reader’s Perspective*](https://www.amazon.com/Sense-Structure-Writing-Readers-Perspective/dp/0205296327),
   2004.
@@ -43,6 +43,25 @@ or highly useful books, articles, and resources.
 - 📖Stephen Pinker,
   [*The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century*](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing-dp-0143127799/dp/0143127799),
   reprint 2015.
+- 📖Jefferson D. Bates,
+  [*Writing with Precision: How to Write So That You Cannot Possibly Be Misunderstood*](https://www.amazon.com/Writing-Precision-Cannot-Possibly-Misunderstood/dp/0140288538),
+  2000.
+- 📖Kenneth Roman and Joel Raphaelson,
+  [*Writing That Works; How to Communicate Effectively In Business*](https://www.amazon.com/gp/product/B086QQK166)
+- 📖Laura Brown,
+  [*The Only Business Writing Book You’ll Ever Need*](https://www.amazon.com/Only-Business-Writing-Book-Youll-ebook/dp/B07DPX15RC),
+  2019.
+- 📖Bryan A. Garner,
+  [*Legal Writing in Plain English: A Text with Exercises*](https://amazon.com/Legal-Writing-Plain-English-Second-dp-0226283933/dp/0226283933),
+  2nd edition, 2013.
+- Jerry Neumann,
+  [two-page summary on business writing](https://twitter.com/ganeumann/status/1227044247964176384)
+- Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts,
+  [*Mathematical Writing*](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf),
+  1987.
+- The
+  [full list of Chicago Guides to Writing, Editing, and Publishing](https://www.amazon.com/gp/product/B086QQK166)
+  has others.
 
 ## Writing (Fiction and Memoir)
 
@@ -70,6 +89,9 @@ or highly useful books, articles, and resources.
 - 📖Peter Ginna,
   [*What Editors Do: The Art, Craft, and Business of Book Editing*](https://www.amazon.com/What-Editors-Do-Business-Publishing/dp/022629997X),
   2017.
+- 📖Scott Norton,
+  [*Developmental Editing: A Handbook for Freelancers, Authors, and Publishers*](https://www.amazon.com/Developmental-Editing-Freelancers-Publishers-Publishing/dp/0226595153/),
+  2011.
 - 📖Benjamin Dreyer,
   [*Dreyer’s English: An Utterly Correct Guide to Clarity and Style*](https://www.amazon.com/Dreyers-English-Utterly-Correct-Clarity-ebook/dp/B07CR1L3ZN),
   2019.
