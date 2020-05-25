@@ -6,22 +6,24 @@ This is a collection of readings and notes on the past, present, and future of b
 The topic is vast, but the idea here is to identify notable or highly useful books,
 articles, and resources that relate to every stage of writing and publishing books—and the
 technologies supporting it in the future.
+(All in English, at least for now.)
 
 🚧 This list is far from complete.
 Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
 
 ## History and General
 
+- Wikipedia: [History of Books](https://en.wikipedia.org/wiki/History_of_books) and
+  [History of Printing](https://en.wikipedia.org/wiki/History_of_printing)
 - 📖Amaranth Borsuk,
   [*The Book*](https://www.amazon.com/Book-MIT-Press-Essential-Knowledge/dp/0262535416) (MIT Press
   Essential Knowledge series), 2018.
 - 📖Andrew Pettegree,
-  [*The Book in the Renaissance*](https://www.amazon.com/Book-Renaissance-Andrew-Pettegree-dp-0300178212),
+  [*The Book in the Renaissance*](https://www.amazon.com/Book-Renaissance-Andrew-Pettegree-dp-0300178212/dp/0300178212),
   2011.
 - 📖Andrew Pettegree,
   [*The Bookshop of the World: Making and Trading Books in the Dutch Golden Age*](https://www.amazon.com/Bookshop-World-Making-Trading-Golden/dp/0300254792),
   2020.
-- [Wikipedia’s History of Books](https://en.wikipedia.org/wiki/History_of_books)
 
 ## Thinking
 
@@ -201,7 +203,7 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
 
 - Jean-Claude Carriare and Umberto Eco,
   [*This Is Not the End of the Book*](https://www.amazon.com/This-Not-Book-Jean-Claude-Carriare/dp/0810127474),
-  2012
+  2012.
 - 📖Hugh Mcguire, Brian Oleary,
   [*Book: A Futurist’s Manifesto: A Collection Of Essays From The Bleeding Edge Of Publishing*](https://www.amazon.com/Book-Futurists-Manifesto-Collection-Publishing-dp-1449305601),
   2012 — Available free [in several chapters](https://book.pressbooks.com/):
