@@ -1,3 +1,5 @@
+![Bookstore photo by John Michael Thomson](images/bookstore-john-michael-thomson-960x640.jpeg)
+
 # On Books
 
 This is a collection of readings and notes on the past, present, and future of books.
