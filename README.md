@@ -1,8 +1,8 @@
-# on-books
+# On Books
 
 This is a collection of readings and notes on the past, present, and future of books.
-The topic is too vast to aspire to make this complete, but the idea here is to link to
-notable or highly useful books and resources.
+The topic is too vast to aspire for completeness, but the idea here is to link to notable
+or highly useful books, articles, and resources.
 
 ## History and General
 
@@ -12,6 +12,7 @@ notable or highly useful books and resources.
 - 📖Andrew Pettegree,
   [The Book in the Renaissance](https://www.amazon.com/Book-Renaissance-Andrew-Pettegree-dp-0300178212),
   2011.
+- [Wikipedia’s History of Books](https://en.wikipedia.org/wiki/History_of_books)
 
 ## Thinking
 
@@ -51,6 +52,15 @@ notable or highly useful books and resources.
 - 📖Anne Lamott,
   [*Bird by Bird: Some Instructions on Writing and Life*](https://www.amazon.com/Bird-Some-Instructions-Writing-Life-dp-0385480016/dp/0385480016),
   1995.
+- 📖Renni Browne, Dave King,
+  [*Self-Editing for Fiction Writers: How to Edit Yourself Into Print*](https://www.amazon.com/Self-Editing-Fiction-Writers-Second-Yourself/dp/0060545690),
+  2nd edition, 2004.
+- 📖Ray Bradbury,
+  [*Zen in the Art of Writing: Essays on Creativity*](https://www.amazon.com/Zen-Art-Writing-Essays-Creativity/dp/1877741094),
+  1994.
+- 📖Ursula Le Guin,
+  [*Steering the Craft: A Twenty-First-Century Guide to Sailing the Sea of Story*](https://www.amazon.com/Steering-Craft-Twenty-First-Century-Guide-Sailing/dp/0544611616),
+  2015.
 
 ## Editing
 
@@ -67,14 +77,20 @@ notable or highly useful books and resources.
   [*The Best Punctuation Book, Period: A Comprehensive Guide for Every Writer, Editor, Student, and Businessperson*](https://www.amazon.com/Best-Punctuation-Book-Period-Businessperson/dp/1607744937),
   2014.
 
-## For Authors
+## For Authors and Self-Publishers
 
 - 📖Jane Friedman,
   [*The Business of Being a Writer*](https://www.amazon.com/Business-Chicago-Writing-Editing-Publishing/dp/022639316X),
   2018.
 - 📖Guy Kawasaki,
-  [*APE: Author Publisher Entrepreneur*](https://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish-dp-0988523108/dp/0988523108),
+  [*APE: Author, Publisher, Entrepreneur: How to Publish a Book*](https://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish-dp-0988523108/dp/0988523108),
   2012.
+- 📖Sean Platt, Johnny B. Truant,
+  [*Write. Publish. Repeat.: The No-Luck-Required Guide to Self-Publishing Success*](https://www.amazon.com/Write-Publish-Repeat-No-Luck-Required-Self-Publishing/dp/1629550523),
+  2015.
+- 📖S.K. Quinn,
+  [*Indie Author Survival Guide*](https://www.amazon.com/Indie-Author-Survival-Guide-Second/dp/1512090042),
+  2nd edition, 2015.
 
 ## The Industry
 
@@ -82,27 +98,28 @@ notable or highly useful books and resources.
   (the classic 20th century reference by Bowker)
 - 📖[*The Business of Books: How the International Conglomerates Took Over Publishing and Changed the Way We Read*](https://www.amazon.com/Business-Books-International-Conglomerates-Publishing/dp/185984362X)
   by Andre Schiffrin, 2001.
-- Keith Gessen,
+- 📄Keith Gessen,
   [*The Book On Publishing*](https://www.vanityfair.com/news/2011/10/how-to-publish-fielding-keith-gessen),
   2011.
-- Richard Nash,
+- 📄Richard Nash,
   [What Is the Business of Literature?](https://www.vqronline.org/articles/what-business-literature),
   VQR, Spring 2013.
 
 ## Ebooks
 
-- [Are ebooks dying or thriving? The answer is yes](https://qz.com/1240924/are-ebooks-dying-or-thriving-the-answer-is-yes/),
+- 📄[Are ebooks dying or thriving? The answer is yes](https://qz.com/1240924/are-ebooks-dying-or-thriving-the-answer-is-yes/),
   2018.
-- [The 2010s were supposed to bring the ebook revolution. It never quite came](https://www.vox.com/culture/2019/12/23/20991659/ebook-amazon-kindle-ereader-department-of-justice-publishing-lawsuit-apple-ipad),
+- 📄[The 2010s were supposed to bring the ebook revolution. It never quite came](https://www.vox.com/culture/2019/12/23/20991659/ebook-amazon-kindle-ereader-department-of-justice-publishing-lawsuit-apple-ipad),
   2019.
-- [The E-Reader Device Is Dying A Rapid Death](https://justpublishingadvice.com/the-e-reader-device-is-dying-a-rapid-death/),
+- 📄[The E-Reader Device Is Dying A Rapid Death](https://justpublishingadvice.com/the-e-reader-device-is-dying-a-rapid-death/),
   2020.
-- [A short comparison of EPUB vs MOBI](https://blog.reedsy.com/epub-vs-mobi-vs-pdf/) for authors
-- [EPUB format overview](https://en.wikipedia.org/wiki/EPUB)
+- 📄[A short comparison of EPUB vs MOBI](https://blog.reedsy.com/epub-vs-mobi-vs-pdf/) for
+  authors
+- 📄[EPUB format overview](https://en.wikipedia.org/wiki/EPUB)
 
 ## Author and Editor Toolchain
 
-- Scott Chacon,
+- 📄Scott Chacon,
   [*Living the Future of Technical Writing*](https://hackernoon.com/living-the-future-of-technical-writing-2f368bd0a272)
 - [O’Reilly Atlas toolchain](https://docs.atlas.oreilly.com/)
 
@@ -110,7 +127,7 @@ notable or highly useful books and resources.
 
 - 📖Hugh Mcguire, Brian Oleary,
   [*Book: A Futurist’s Manifesto: A Collection Of Essays From The Bleeding Edge Of Publishing*](https://www.amazon.com/Book-Futurists-Manifesto-Collection-Publishing-dp-1449305601),
-  2012 — Available ([contents](https://book.pressbooks.com/)) in several chapters:
+  2012 — Available free [in several chapters](https://book.pressbooks.com/):
   1. [Context, not Container](https://book.pressbooks.com/chapter/context-not-container-brian-oleary)
      (Brian O’Leary)
   2. [Distribution Everywhere](https://book.pressbooks.com/chapter/distribution-everywhere-andrew-savikas)
@@ -152,4 +169,4 @@ notable or highly useful books and resources.
   26. The Forgotten Consumer (Jacob Lewis, Figment)
   27. A Conversation That Can’t Be Controlled (Sarah Wendell, Smart Bitches Trashy Books)
 
-- Andy Matuschak, [*Why Books Don’t Work*](https://andymatuschak.org/books/), 2019.
+- 📄Andy Matuschak, [*Why Books Don’t Work*](https://andymatuschak.org/books/), 2019.
