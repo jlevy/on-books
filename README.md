@@ -104,9 +104,14 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
 - 📖Benjamin Dreyer,
   [*Dreyer’s English: An Utterly Correct Guide to Clarity and Style*](https://www.amazon.com/Dreyers-English-Utterly-Correct-Clarity-ebook/dp/B07CR1L3ZN),
   2019.
+- 📖*The Chicago Manual of Style* ([web](https://www.chicagomanualofstyle.org/home.html) and
+  [print](https://www.amazon.com/Chicago-Manual-Style-17th/dp/022628705X)) — The one and only.
+  A “guiding light for almost all published writing in America today.”
+  (Boston Globe)
 - 📖June Casagrande,
   [*The Best Punctuation Book, Period: A Comprehensive Guide for Every Writer, Editor, Student, and Businessperson*](https://www.amazon.com/Best-Punctuation-Book-Period-Businessperson/dp/1607744937),
-  2014.
+  2014 — Most style guides omit some punctuation nuances;
+  this book isÂ the most careful and detailed of its kind.
 
 ## For Authors and Self-Publishers
 
