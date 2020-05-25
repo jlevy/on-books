@@ -58,7 +58,7 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
   [*Writing with Precision: How to Write So That You Cannot Possibly Be Misunderstood*](https://www.amazon.com/Writing-Precision-Cannot-Possibly-Misunderstood/dp/0140288538),
   2000.
 - 📖Kenneth Roman and Joel Raphaelson,
-  [*Writing That Works; How to Communicate Effectively In Business*](https://www.amazon.com/gp/product/B086QQK166)
+  [*Writing That Works: How to Communicate Effectively In Business*](https://www.amazon.com/Writing-Works-Communicate-Effectively-Business-dp-0060956437/dp/0060956437/)
 - 📖Laura Brown,
   [*The Only Business Writing Book You’ll Ever Need*](https://www.amazon.com/Only-Business-Writing-Book-Youll-ebook/dp/B07DPX15RC),
   2019.
@@ -70,8 +70,8 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
 - Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts,
   [*Mathematical Writing*](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf),
   1987.
-- The
-  [full list of Chicago Guides to Writing, Editing, and Publishing](https://www.amazon.com/gp/product/B086QQK166)
+- The full list of
+  [Chicago Guides to Writing, Editing, and Publishing](https://www.amazon.com/gp/product/B086QQK166)
   has others.
 
 ## Writing (Fiction and Memoir)
@@ -102,7 +102,7 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
 
 - 📖Peter Ginna,
   [*What Editors Do: The Art, Craft, and Business of Book Editing*](https://www.amazon.com/What-Editors-Do-Business-Publishing/dp/022629997X),
-  2017.
+  2017 — A wonderful survey to understand the many different jobs of editors.
 - 📖Scott Norton,
   [*Developmental Editing: A Handbook for Freelancers, Authors, and Publishers*](https://www.amazon.com/Developmental-Editing-Freelancers-Publishers-Publishing/dp/0226595153/),
   2011.
@@ -119,7 +119,7 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
 - 📖June Casagrande,
   [*The Best Punctuation Book, Period: A Comprehensive Guide for Every Writer, Editor, Student, and Businessperson*](https://www.amazon.com/Best-Punctuation-Book-Period-Businessperson/dp/1607744937),
   2014 — Most style guides omit some punctuation nuances;
-  this book isÂ the most careful and detailed of its kind.
+  this book is the most careful and detailed of its kind.
 
 ## Book Design
 
@@ -134,6 +134,16 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
 - 📖Robert Bringhurst,
   [*The Elements of Typographic Style*](https://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326),
   2002 — A definitive and respected modern work.
+- 📖Alexander Lawson,
+  [Anatomy of a Typeface](https://www.amazon.com/Anatomy-Typeface-Alexander-S-Lawson/dp/0879233338/),
+  1990 — A modern survey of type design and type designers for a general audience.
+- 📖Karen CHeng,
+  [Designing Type](https://www.amazon.com/Designing-Type-Karen-Cheng/dp/0300111509/), 2006 — A
+  detailed, visual survey of actual letterforms, explaining the processes behind creating
+  and designing type.
+- 📖Daniel Berkeley Updike,
+  [Printing Types: Their History, Forms, and Use](https://archive.org/details/printingtypesthe01updi/mode/2up),
+  1922 — A classic historical survey, now in public domain.
 - [*Buttrick’s Practical Typography*](https://practicaltypography.com/) — Likely the best brief,
   online resource on typography for beginners and practitioners.
 
@@ -199,7 +209,7 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
   — An overview from a technical author on writing using Git workflows.
 - [O’Reilly Atlas toolchain](https://docs.atlas.oreilly.com/)
 
-## Digital Books and the Future
+## The Future
 
 - Jean-Claude Carriare and Umberto Eco,
   [*This Is Not the End of the Book*](https://www.amazon.com/This-Not-Book-Jean-Claude-Carriare/dp/0810127474),
