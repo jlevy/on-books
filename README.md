@@ -9,7 +9,7 @@ technologies supporting it in the future.
 (All in English, at least for now.)
 
 🚧 This list is far from complete.
-Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
+Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or add a comment [here](https://github.com/jlevy/on-books/issues/1)!
 
 ## History and General
 
