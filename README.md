@@ -197,6 +197,8 @@ Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or
   [HarperCollins](https://en.wikipedia.org/wiki/HarperCollins) ([News Corp](https://en.wikipedia.org/wiki/News_Corp_(2013%E2%80%93present))),
   [Simon & Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster) ([National Amusements](https://en.wikipedia.org/wiki/National_Amusements))
   and [Macmillan](https://en.wikipedia.org/wiki/Macmillan_Publishers) ([Holtzbrinck](https://en.wikipedia.org/wiki/Holtzbrinck_Publishing_Group))[^wiki_book_publishing]
+- [Publishers Lunch](https://lunch.publishersmarketplace.com/) — Widely read daily newsletter on
+  the publishing industry by [Publishers Marketplace](https://www.publishersmarketplace.com/).
 - 📖[*The Business of Books: How the International Conglomerates Took Over Publishing and Changed the Way We Read*](https://www.amazon.com/Business-Books-International-Conglomerates-Publishing/dp/185984362X)
   by Andre Schiffrin, 2001.
 - 📄Keith Gessen,
