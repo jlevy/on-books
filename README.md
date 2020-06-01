@@ -161,17 +161,11 @@ Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or
 - [More readings on graphic design and typography](https://booksongraphicdesign.com/) from Theo
   van Beurden.
 
-## For Authors and Self-Publishers
+## Business Advice for Writers
 
 - 📖Jane Friedman,
   [*The Business of Being a Writer*](https://www.amazon.com/Business-Chicago-Writing-Editing-Publishing/dp/022639316X),
   2018.
-- 📖Guy Kawasaki,
-  [*APE: Author, Publisher, Entrepreneur: How to Publish a Book*](https://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish-dp-0988523108/dp/0988523108),
-  2012.
-- 📖Sean Platt, Johnny B. Truant,
-  [*Write. Publish. Repeat.: The No-Luck-Required Guide to Self-Publishing Success*](https://www.amazon.com/Write-Publish-Repeat-No-Luck-Required-Self-Publishing/dp/1629550523),
-  2015.
 - 📖S.K. Quinn,
   [*Indie Author Survival Guide*](https://www.amazon.com/Indie-Author-Survival-Guide-Second/dp/1512090042),
   2nd edition, 2015.
@@ -179,6 +173,18 @@ Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or
   [*Writer’s Market 2020: The Most Trusted Guide to Getting Published*](https://www.amazon.com/Writers-Market-2020-Trusted-Published-ebook/dp/B07YJZZGW4)
 - 📖Writer’s Digest Books,
   [*Guide to Literary Agents 2020: The Most Trusted Guide to Getting Published*](https://www.amazon.com/Guide-Literary-Agents-2020-Published-ebook/dp/B083RZFQ8P)
+
+## Self-Publishing and Small Publishers
+
+- 📖Guy Kawasaki,
+  [*APE: Author, Publisher, Entrepreneur: How to Publish a Book*](https://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish-dp-0988523108/dp/0988523108),
+  2012.
+- 📖Joe Biel,
+  [*A People’s Guide to Publishing: Build a Successful, Sustainable, Meaningful Book Business*](https://www.amazon.com/Peoples-Guide-Publishing-Successful-Sustainable/dp/1621062856/),
+  2018.
+- 📖Sean Platt, Johnny B. Truant,
+  [*Write. Publish. Repeat.: The No-Luck-Required Guide to Self-Publishing Success*](https://www.amazon.com/Write-Publish-Repeat-No-Luck-Required-Self-Publishing/dp/1629550523),
+  2015.
 
 ## The Industry
 
@@ -203,6 +209,12 @@ Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or
 
 ## Ebooks
 
+- There are
+  [many historic ebook formats](https://en.wikipedia.org/wiki/Comparison_of_e-book_formats) but
+  the dominant ones today are Amazon’s
+  [Kindle format](https://en.wikipedia.org/wiki/Kindle_File_Format) (which is related to the
+  [Mobipocket](https://en.wikipedia.org/wiki/Mobipocket) format) and
+  [EPUB](https://en.wikipedia.org/wiki/EPUB).
 - 📄[Are ebooks dying or thriving? The answer is yes](https://qz.com/1240924/are-ebooks-dying-or-thriving-the-answer-is-yes/),
   2018.
 - 📄[The 2010s were supposed to bring the ebook revolution. It never quite came](https://www.vox.com/culture/2019/12/23/20991659/ebook-amazon-kindle-ereader-department-of-justice-publishing-lawsuit-apple-ipad),
@@ -211,7 +223,6 @@ Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or
   2020.
 - 📄[A short comparison of EPUB vs MOBI](https://blog.reedsy.com/epub-vs-mobi-vs-pdf/) for
   authors
-- 📄[EPUB format overview](https://en.wikipedia.org/wiki/EPUB)
 
 ## Software Tools and Toolchains
 
