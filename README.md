@@ -82,7 +82,7 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
 - 📖Anne Lamott,
   [*Bird by Bird: Some Instructions on Writing and Life*](https://www.amazon.com/Bird-Some-Instructions-Writing-Life-dp-0385480016/dp/0385480016),
   1995.
-- 📖Renni Browne, Dave King,
+- 📖Renni Browne and Dave King,
   [*Self-Editing for Fiction Writers: How to Edit Yourself Into Print*](https://www.amazon.com/Self-Editing-Fiction-Writers-Second-Yourself/dp/0060545690),
   2nd edition, 2004.
 - 📖Ray Bradbury,
@@ -137,7 +137,7 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
 - 📖Alexander Lawson,
   [Anatomy of a Typeface](https://www.amazon.com/Anatomy-Typeface-Alexander-S-Lawson/dp/0879233338/),
   1990 — A modern survey of type design and type designers for a general audience.
-- 📖Karen CHeng,
+- 📖Karen Cheng,
   [Designing Type](https://www.amazon.com/Designing-Type-Karen-Cheng/dp/0300111509/), 2006 — A
   detailed, visual survey of actual letterforms, explaining the processes behind creating
   and designing type.
@@ -276,5 +276,13 @@ Please help suggest items via PR or to [@ojoshe](https://twitter.com/ojoshe)!
      - [A Conversation That Can’t Be Controlled](https://book.pressbooks.com/chapter/smart-bitches-trashy-books-sarah-wendell)
        (Sarah Wendell, Smart Bitches Trashy Books)
 - 📄Andy Matuschak, [*Why Books Don’t Work*](https://andymatuschak.org/books/), 2019.
+
+## Credits
+
+Thanks to [Andy Sparks](https://twitter.com/SparksZilla),
+[Anna Gát](https://twitter.com/TheAnnaGat), [Jean-Marc Davril](https://twitter.com/jmdavril),
+[Andrew Brookins](https://twitter.com/abrookins), [Anirudh Pai](https://twitter.com/ani_pai) for
+suggestions included here.
+Curated by [Joshua Levy](https://twitter.com/ojoshe).
 
 [^wiki_book_publishing]: <https://en.wikipedia.org/wiki/Publishing#Book_publishing>
