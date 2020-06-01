@@ -190,14 +190,13 @@ Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or
 
 - Wikipedia:
   [Stages of publishing](https://en.wikipedia.org/wiki/Publishing#Stages_of_Publishing)
+- Wikipedia: [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number)
 - About 60% of English-language books are produced through the “Big Five” publishing houses:
   [Penguin Random House](https://en.wikipedia.org/wiki/Penguin_Random_House) ([Bertelsmann](https://en.wikipedia.org/wiki/Bertelsmann_Stiftung)),
   [Hachette](https://en.wikipedia.org/wiki/Hachette_Book_Group_USA) ([Lagardère](https://en.wikipedia.org/wiki/Lagard%C3%A8re_Group)),
   [HarperCollins](https://en.wikipedia.org/wiki/HarperCollins) ([News Corp](https://en.wikipedia.org/wiki/News_Corp_(2013%E2%80%93present))),
   [Simon & Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster) ([National Amusements](https://en.wikipedia.org/wiki/National_Amusements))
   and [Macmillan](https://en.wikipedia.org/wiki/Macmillan_Publishers) ([Holtzbrinck](https://en.wikipedia.org/wiki/Holtzbrinck_Publishing_Group))[^wiki_book_publishing]
-- 📖[*The Bookman’s Glossary*](https://www.amazon.com/Bookmans-Glossary-Jean-Peters/dp/0835216861/)
-  — The classic 20th century reference by Bowker.
 - 📖[*The Business of Books: How the International Conglomerates Took Over Publishing and Changed the Way We Read*](https://www.amazon.com/Business-Books-International-Conglomerates-Publishing/dp/185984362X)
   by Andre Schiffrin, 2001.
 - 📄Keith Gessen,
