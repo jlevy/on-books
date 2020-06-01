@@ -2,14 +2,15 @@
 
 # On Books
 
-This is a collection of readings and notes on the past, present, and future of books.
+This is a collection of readings and resources on the past, present, and future of books.
 The topic is vast, but the idea here is to identify notable or highly useful books,
 articles, and resources that relate to every stage of writing and publishing books—and the
-technologies supporting it in the future.
+software, tools, and formats supporting the process.
 (All in English, at least for now.)
 
 🚧 This list is far from complete.
-Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or add a comment [here](https://github.com/jlevy/on-books/issues/1)!
+Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or
+[add a comment here](https://github.com/jlevy/on-books/issues/1)!
 
 ## History and General
 
@@ -24,6 +25,9 @@ Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or ad
 - 📖Andrew Pettegree,
   [*The Bookshop of the World: Making and Trading Books in the Dutch Golden Age*](https://www.amazon.com/Bookshop-World-Making-Trading-Golden/dp/0300254792),
   2020.
+- 📖Elizabeth L. Eisenstein,
+  [*The Printing Revolution in Early Modern Europe*](https://www.amazon.com/Printing-Revolution-Modern-Europe-Classics/dp/1107632757),
+  2nd Edition, 2012.
 
 ## Thinking
 
@@ -38,7 +42,7 @@ Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or ad
 
 - 📖William Strunk and E.B. White,
   [*The Elements of Style*](https://www.amazon.com/Elements-Style-Fourth-William-Strunk-ebook-dp-B07NPN5HTP/dp/B07NPN5HTP),
-  4th Ed.
+  4th edition.
 - 📖William Zinsser,
   [*On Writing Well: The Classic Guide to Writing Nonfiction*](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction-dp-0060891548/dp/0060891548)
   (30th anniversary edition), 2016.
@@ -128,24 +132,34 @@ Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or ad
 - 📖Keith Houston,
   [*The Book: A Cover-to-Cover Exploration of the Most Powerful Object of Our Time*](https://www.amazon.com/Book-Cover-Cover-Exploration-Powerful-ebook/dp/B016CAJJAS),
   2016.
+- 📖Keith A. Smith,
+  [Structure of the Visual Book](https://www.amazon.com/Structure-Visual-Book-Expanded-Fourth/dp/0974076406),
+  4th edition, 2003
 
 ## Typography
 
 - 📖Robert Bringhurst,
   [*The Elements of Typographic Style*](https://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326),
   2002 — A definitive and respected modern work.
+- 📖Mark Argetsinger,
+  [*A Grammar of Typography*](https://www.amazon.com/Grammar-Typography-Classical-Design-Digital/dp/1567926533/)
+  ([more](http://argetsingerbooks.com/grammar-of-typography)), 2020 — A modern and
+  comprehensive guide to traditional book design, with historic practice and digital
+  typesetting.
 - 📖Alexander Lawson,
-  [Anatomy of a Typeface](https://www.amazon.com/Anatomy-Typeface-Alexander-S-Lawson/dp/0879233338/),
+  [*Anatomy of a Typeface*](https://www.amazon.com/Anatomy-Typeface-Alexander-S-Lawson/dp/0879233338/),
   1990 — A modern survey of type design and type designers for a general audience.
 - 📖Karen Cheng,
-  [Designing Type](https://www.amazon.com/Designing-Type-Karen-Cheng/dp/0300111509/), 2006 — A
+  [*Designing Type*](https://www.amazon.com/Designing-Type-Karen-Cheng/dp/0300111509/), 2006 — A
   detailed, visual survey of actual letterforms, explaining the processes behind creating
   and designing type.
 - 📖Daniel Berkeley Updike,
-  [Printing Types: Their History, Forms, and Use](https://archive.org/details/printingtypesthe01updi/mode/2up),
+  [*Printing Types: Their History, Forms, and Use*](https://archive.org/details/printingtypesthe01updi/mode/2up),
   1922 — A classic historical survey, now in public domain.
 - [*Buttrick’s Practical Typography*](https://practicaltypography.com/) — Likely the best brief,
   online resource on typography for beginners and practitioners.
+- [More readings on graphic design and typography](https://booksongraphicdesign.com/) from Theo
+  van Beurden.
 
 ## For Authors and Self-Publishers
 
@@ -199,15 +213,35 @@ Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or ad
   authors
 - 📄[EPUB format overview](https://en.wikipedia.org/wiki/EPUB)
 
-## Digital Toolchain
+## Software Tools and Toolchains
 
-- 📖[*The Not So Short Introduction to LaTeX*](https://tobi.oetiker.ch/lshort/lshort.pdf) — LaTeX
-  and TeX are among the most mature systems for technical typesetting.
-  This is a good overview.
-- 📄Scott Chacon,
-  [*Living the Future of Technical Writing*](https://hackernoon.com/living-the-future-of-technical-writing-2f368bd0a272)
-  — An overview from a technical author on writing using Git workflows.
-- [O’Reilly Atlas toolchain](https://docs.atlas.oreilly.com/)
+- Writing apps:
+  - The classics: [MS Word](https://en.wikipedia.org/wiki/Microsoft_Word),
+    [Google Docs](https://en.wikipedia.org/wiki/Google_Docs)
+  - Others: [Apple Pages](https://en.wikipedia.org/wiki/Pages_(word_processor)),
+    [iA Writer](https://en.wikipedia.org/wiki/IA_Writer) (for Markdown),
+    [Scrivener](https://en.wikipedia.org/wiki/Scrivener_(software))
+  - Online collaborative editing (with mobile apps):
+    [Notion](https://en.wikipedia.org/wiki/Notion_(app)) (good for outlining),
+    [Quip](https://en.wikipedia.org/wiki/Quip_(software))
+- Formatting languages:
+  - [Markdown](https://en.wikipedia.org/wiki/Markdown) — Now the most widely used format by
+    developers for formatting text, which works well for articles but is not usually
+    expressive enough for writing books.
+  - [AsciiDoc](https://en.wikipedia.org/wiki/AsciiDoc) — Another “human readable” formatting
+    language that’s more expressive than Markdown but also more complex.
+  - [DocBook](https://en.wikipedia.org/wiki/DocBook) — An XML-based formatting language.
+  - [LaTeX](https://en.wikipedia.org/wiki/LaTeX) — LaTeX and TeX are among the most mature systems
+    for technical typesetting, widely used in scholarly works since the 1980s;
+    more in 📖[*The Not So Short Introduction to LaTeX*](https://tobi.oetiker.ch/lshort/lshort.pdf).
+- Layout and design:
+  - [Adobe InDesign](https://en.wikipedia.org/wiki/Adobe_InDesign) — The dominant tool for book
+    design and layout.
+- Toolchains:
+  - 📄Scott Chacon,
+    [*Living the Future of Technical Writing*](https://hackernoon.com/living-the-future-of-technical-writing-2f368bd0a272)
+    — An overview from a technical author on writing using Git workflows.
+  - [O’Reilly Atlas toolchain](https://docs.atlas.oreilly.com/)
 
 ## The Future
 
@@ -275,14 +309,17 @@ Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or ad
        Lewis, Figment)
      - [A Conversation That Can’t Be Controlled](https://book.pressbooks.com/chapter/smart-bitches-trashy-books-sarah-wendell)
        (Sarah Wendell, Smart Bitches Trashy Books)
+- 🎥[Future of Reading Symposium](https://www.rit.edu/carycollection/future-reading-symposium),
+  Rochester Institute of Technology, 2010.
 - 📄Andy Matuschak, [*Why Books Don’t Work*](https://andymatuschak.org/books/), 2019.
 
 ## Credits
 
-Thanks to [Andy Sparks](https://twitter.com/SparksZilla),
-[Anna Gát](https://twitter.com/TheAnnaGat), [Jean-Marc Davril](https://twitter.com/jmdavril),
-[Andrew Brookins](https://twitter.com/abrookins), [Anirudh Pai](https://twitter.com/ani_pai) for
-suggestions included here.
-Curated by [Joshua Levy](https://twitter.com/ojoshe).
+Items here include suggestions from: [Andrew Brookins](https://twitter.com/abrookins),
+[Jean-Marc Davril](https://twitter.com/jmdavril), [Anna Gát](https://twitter.com/TheAnnaGat),
+[Hope Hackett](https://www.linkedin.com/in/hope-hackett-99b17b4/),
+[Anirudh Pai](https://twitter.com/ani_pai), Justin Seymour,
+[Andy Sparks](https://twitter.com/SparksZilla). Curated by
+[Joshua Levy](https://twitter.com/ojoshe).
 
 [^wiki_book_publishing]: <https://en.wikipedia.org/wiki/Publishing#Book_publishing>
