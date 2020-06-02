@@ -3,13 +3,13 @@
 # On Books
 
 This is a collection of readings and resources on the past, present, and future of books.
-The topic is vast, but the idea here is to identify notable or highly useful books,
-articles, and resources that relate to every stage of writing and publishing books—and the
-software, tools, and formats supporting the process.
-(All in English, at least for now.)
+The topic is vast, but the idea here is to identify notable and useful books, articles,
+and resources that relate to every stage of writing and publishing books—and the software,
+tools, and formats supporting the process.
+(All in English, for now.)
 
 🚧 This list is far from complete.
-Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or
+Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 [add a comment here](https://github.com/jlevy/on-books/issues/1)!
 
 ## History and General
@@ -125,66 +125,64 @@ Please help suggest items—tweet at [@ojoshe](https://twitter.com/ojoshe) or
   2014 — Most style guides omit some punctuation nuances;
   this book is the most careful and detailed of its kind.
 
-## Book Design
+## Book Design and Typography
 
-- Wikipedia on [book design](https://en.wikipedia.org/wiki/Book_design) including
-  [the parts of a book](https://en.wikipedia.org/wiki/Book_design#Structure).
-- 📖Keith Houston,
-  [*The Book: A Cover-to-Cover Exploration of the Most Powerful Object of Our Time*](https://www.amazon.com/Book-Cover-Cover-Exploration-Powerful-ebook/dp/B016CAJJAS),
-  2016.
-- 📖Keith A. Smith,
-  [Structure of the Visual Book](https://www.amazon.com/Structure-Visual-Book-Expanded-Fourth/dp/0974076406),
-  4th edition, 2003
+- Book design
+  - Wikipedia on [book design](https://en.wikipedia.org/wiki/Book_design) including
+    [the parts of a book](https://en.wikipedia.org/wiki/Book_design#Structure).
+  - 📖Keith Houston,
+    [*The Book: A Cover-to-Cover Exploration of the Most Powerful Object of Our Time*](https://www.amazon.com/Book-Cover-Cover-Exploration-Powerful-ebook/dp/B016CAJJAS),
+    2016.
+  - 📖Keith A. Smith,
+    [Structure of the Visual Book](https://www.amazon.com/Structure-Visual-Book-Expanded-Fourth/dp/0974076406),
+    4th edition, 2003
+- Typography
+  - 📖Robert Bringhurst,
+    [*The Elements of Typographic Style*](https://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326),
+    2002 — A definitive and respected modern work.
+  - 📖Mark Argetsinger,
+    [*A Grammar of Typography*](https://www.amazon.com/Grammar-Typography-Classical-Design-Digital/dp/1567926533/)
+    ([more](http://argetsingerbooks.com/grammar-of-typography)), 2020 — A modern and
+    comprehensive guide to traditional book design, with historic practice and digital
+    typesetting.
+  - 📖Alexander Lawson,
+    [*Anatomy of a Typeface*](https://www.amazon.com/Anatomy-Typeface-Alexander-S-Lawson/dp/0879233338/),
+    1990 — A modern survey of type design and type designers for a general audience.
+  - 📖Karen Cheng,
+    [*Designing Type*](https://www.amazon.com/Designing-Type-Karen-Cheng/dp/0300111509/), 2006 — A
+    detailed, visual survey of actual letterforms, explaining the processes behind creating
+    and designing type.
+  - 📖Daniel Berkeley Updike,
+    [*Printing Types: Their History, Forms, and Use*](https://archive.org/details/printingtypesthe01updi/mode/2up),
+    1922 — A classic historical survey, now in public domain.
+  - [*Buttrick’s Practical Typography*](https://practicaltypography.com/) — Likely the best brief,
+    online resource on typography for beginners and practitioners.
+  - [More readings on graphic design and typography](https://booksongraphicdesign.com/) from Theo
+    van Beurden.
 
-## Typography
+## Entrepreneurial Advice
 
-- 📖Robert Bringhurst,
-  [*The Elements of Typographic Style*](https://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326),
-  2002 — A definitive and respected modern work.
-- 📖Mark Argetsinger,
-  [*A Grammar of Typography*](https://www.amazon.com/Grammar-Typography-Classical-Design-Digital/dp/1567926533/)
-  ([more](http://argetsingerbooks.com/grammar-of-typography)), 2020 — A modern and
-  comprehensive guide to traditional book design, with historic practice and digital
-  typesetting.
-- 📖Alexander Lawson,
-  [*Anatomy of a Typeface*](https://www.amazon.com/Anatomy-Typeface-Alexander-S-Lawson/dp/0879233338/),
-  1990 — A modern survey of type design and type designers for a general audience.
-- 📖Karen Cheng,
-  [*Designing Type*](https://www.amazon.com/Designing-Type-Karen-Cheng/dp/0300111509/), 2006 — A
-  detailed, visual survey of actual letterforms, explaining the processes behind creating
-  and designing type.
-- 📖Daniel Berkeley Updike,
-  [*Printing Types: Their History, Forms, and Use*](https://archive.org/details/printingtypesthe01updi/mode/2up),
-  1922 — A classic historical survey, now in public domain.
-- [*Buttrick’s Practical Typography*](https://practicaltypography.com/) — Likely the best brief,
-  online resource on typography for beginners and practitioners.
-- [More readings on graphic design and typography](https://booksongraphicdesign.com/) from Theo
-  van Beurden.
-
-## Business Advice for Writers
-
-- 📖Jane Friedman,
-  [*The Business of Being a Writer*](https://www.amazon.com/Business-Chicago-Writing-Editing-Publishing/dp/022639316X),
-  2018.
-- 📖S.K. Quinn,
-  [*Indie Author Survival Guide*](https://www.amazon.com/Indie-Author-Survival-Guide-Second/dp/1512090042),
-  2nd edition, 2015.
-- 📖Writer’s Digest Books,
-  [*Writer’s Market 2020: The Most Trusted Guide to Getting Published*](https://www.amazon.com/Writers-Market-2020-Trusted-Published-ebook/dp/B07YJZZGW4)
-- 📖Writer’s Digest Books,
-  [*Guide to Literary Agents 2020: The Most Trusted Guide to Getting Published*](https://www.amazon.com/Guide-Literary-Agents-2020-Published-ebook/dp/B083RZFQ8P)
-
-## Self-Publishing and Small Publishers
-
-- 📖Guy Kawasaki,
-  [*APE: Author, Publisher, Entrepreneur: How to Publish a Book*](https://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish-dp-0988523108/dp/0988523108),
-  2012.
-- 📖Joe Biel,
-  [*A People’s Guide to Publishing: Build a Successful, Sustainable, Meaningful Book Business*](https://www.amazon.com/Peoples-Guide-Publishing-Successful-Sustainable/dp/1621062856/),
-  2018.
-- 📖Sean Platt, Johnny B. Truant,
-  [*Write. Publish. Repeat.: The No-Luck-Required Guide to Self-Publishing Success*](https://www.amazon.com/Write-Publish-Repeat-No-Luck-Required-Self-Publishing/dp/1629550523),
-  2015.
+- Advice for writers
+  - 📖Jane Friedman,
+    [*The Business of Being a Writer*](https://www.amazon.com/Business-Chicago-Writing-Editing-Publishing/dp/022639316X),
+    2018.
+  - 📖S.K. Quinn,
+    [*Indie Author Survival Guide*](https://www.amazon.com/Indie-Author-Survival-Guide-Second/dp/1512090042),
+    2nd edition, 2015.
+  - 📖Writer’s Digest Books,
+    [*Writer’s Market 2020: The Most Trusted Guide to Getting Published*](https://www.amazon.com/Writers-Market-2020-Trusted-Published-ebook/dp/B07YJZZGW4)
+  - 📖Writer’s Digest Books,
+    [*Guide to Literary Agents 2020: The Most Trusted Guide to Getting Published*](https://www.amazon.com/Guide-Literary-Agents-2020-Published-ebook/dp/B083RZFQ8P)
+- Advice for small publishers and self-publishers
+  - 📖Guy Kawasaki,
+    [*APE: Author, Publisher, Entrepreneur: How to Publish a Book*](https://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish-dp-0988523108/dp/0988523108),
+    2012.
+  - 📖Joe Biel,
+    [*A People’s Guide to Publishing: Build a Successful, Sustainable, Meaningful Book Business*](https://www.amazon.com/Peoples-Guide-Publishing-Successful-Sustainable/dp/1621062856/),
+    2018.
+  - 📖Sean Platt, Johnny B. Truant,
+    [*Write. Publish. Repeat.: The No-Luck-Required Guide to Self-Publishing Success*](https://www.amazon.com/Write-Publish-Repeat-No-Luck-Required-Self-Publishing/dp/1629550523),
+    2015.
 
 ## The Industry
 
