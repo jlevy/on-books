@@ -127,6 +127,11 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 
 ## Book Design and Typography
 
+- 📖Mark Argetsinger,
+    [*A Grammar of Typography*](https://www.amazon.com/Grammar-Typography-Classical-Design-Digital/dp/1567926533/)
+    ([more](http://argetsingerbooks.com/grammar-of-typography)), 2020 — An exceptional, modern, and
+    comprehensive overview of traditional book design and typography, with both historic practice and digital
+    typesetting.
 - Book design
   - Wikipedia on [book design](https://en.wikipedia.org/wiki/Book_design) including
     [the parts of a book](https://en.wikipedia.org/wiki/Book_design#Structure).
@@ -140,11 +145,6 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
   - 📖Robert Bringhurst,
     [*The Elements of Typographic Style*](https://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326),
     2002 — A definitive and respected modern work.
-  - 📖Mark Argetsinger,
-    [*A Grammar of Typography*](https://www.amazon.com/Grammar-Typography-Classical-Design-Digital/dp/1567926533/)
-    ([more](http://argetsingerbooks.com/grammar-of-typography)), 2020 — A modern and
-    comprehensive guide to traditional book design, with historic practice and digital
-    typesetting.
   - 📖Alexander Lawson,
     [*Anatomy of a Typeface*](https://www.amazon.com/Anatomy-Typeface-Alexander-S-Lawson/dp/0879233338/),
     1990 — A modern survey of type design and type designers for a general audience.
