@@ -98,7 +98,7 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 - 📖Margaret Atwood,
   [*Negotiating with the Dead: A Writer on Writing*](https://www.amazon.com/Negotiating-Dead-Writing-Margaret-Atwood/dp/1400032601),
   2003.
-- 📖Virginia Wolf,
+- 📖Virginia Woolf,
   [*A Room of One’s Own*](https://www.amazon.com/Room-Ones-Own-Virginia-Woolf/dp/1614272778),
   reprint of 1929 edition.
 
