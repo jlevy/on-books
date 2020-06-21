@@ -42,6 +42,9 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
   1975.
 - 📖Anne Fadiman,
   [*Ex Libris*](https://www.amazon.com/Ex-Libris-Confessions-Common-Reader/dp/0374527229), 2000.
+- 📖Jon R. Stone,
+  [*Latin for the Illiterati: A Modern Guide to an Ancient Language*](https://www.amazon.com/Latin-Illiterati-Modern-Ancient-Language/dp/0415777674),
+  2nd edition, 2009.
 
 ## Writing (Nonfiction and General)
 
@@ -94,27 +97,31 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 
 ## Writing (Fiction and Memoir)
 
-- 📖Stephen King,
-  [*On Writing: A Memoir Of The Craft*](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816),
-  2010.
-- 📖Anne Lamott,
-  [*Bird by Bird: Some Instructions on Writing and Life*](https://www.amazon.com/Bird-Some-Instructions-Writing-Life-dp-0385480016/dp/0385480016),
-  1995.
+- Novelists on writing
+  - 📖Stephen King,
+    [*On Writing: A Memoir Of The Craft*](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816),
+    2010.
+  - 📖Anne Lamott,
+    [*Bird by Bird: Some Instructions on Writing and Life*](https://www.amazon.com/Bird-Some-Instructions-Writing-Life-dp-0385480016/dp/0385480016),
+    1995.
+  - 📖Ray Bradbury,
+    [*Zen in the Art of Writing: Essays on Creativity*](https://www.amazon.com/Zen-Art-Writing-Essays-Creativity/dp/1877741094),
+    1994.
+  - 📖Ursula Le Guin,
+    [*Steering the Craft: A Twenty-First-Century Guide to Sailing the Sea of Story*](https://www.amazon.com/Steering-Craft-Twenty-First-Century-Guide-Sailing/dp/0544611616),
+    2015.
+  - 📖Margaret Atwood,
+    [*Negotiating with the Dead: A Writer on Writing*](https://www.amazon.com/Negotiating-Dead-Writing-Margaret-Atwood/dp/1400032601),
+    2003.
+  - 📖Virginia Woolf,
+    [*A Room of One’s Own*](https://www.amazon.com/Room-Ones-Own-Virginia-Woolf/dp/1614272778),
+    reprint of 1929 edition.
 - 📖Renni Browne and Dave King,
   [*Self-Editing for Fiction Writers: How to Edit Yourself Into Print*](https://www.amazon.com/Self-Editing-Fiction-Writers-Second-Yourself/dp/0060545690),
   2nd edition, 2004.
-- 📖Ray Bradbury,
-  [*Zen in the Art of Writing: Essays on Creativity*](https://www.amazon.com/Zen-Art-Writing-Essays-Creativity/dp/1877741094),
-  1994.
-- 📖Ursula Le Guin,
-  [*Steering the Craft: A Twenty-First-Century Guide to Sailing the Sea of Story*](https://www.amazon.com/Steering-Craft-Twenty-First-Century-Guide-Sailing/dp/0544611616),
-  2015.
-- 📖Margaret Atwood,
-  [*Negotiating with the Dead: A Writer on Writing*](https://www.amazon.com/Negotiating-Dead-Writing-Margaret-Atwood/dp/1400032601),
-  2003.
-- 📖Virginia Woolf,
-  [*A Room of One’s Own*](https://www.amazon.com/Room-Ones-Own-Virginia-Woolf/dp/1614272778),
-  reprint of 1929 edition.
+- 📖Charles Baxter,
+  [*Burning Down the House: Essays on Fiction*](https://www.amazon.com/Burning-Down-House-Essays-Fiction/dp/1555975089),
+  expanded edition, 2008.
 
 ## Editing
 
@@ -166,8 +173,8 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
     4th edition, 2003
 - Typography
   - 📖Robert Bringhurst,
-    [*The Elements of Typographic Style*](https://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326),
-    2002 — A definitive and respected modern work.
+    [*The Elements of Typographic Style*](https://www.amazon.com/Elements-Typographic-Style-Version-Anniversary/dp/0881792128),
+    4th edition, 2013 — A definitive and respected modern work.
   - 📖Alexander Lawson,
     [*Anatomy of a Typeface*](https://www.amazon.com/Anatomy-Typeface-Alexander-S-Lawson/dp/0879233338/),
     1990 — A modern survey of type design and type designers for a general audience.
@@ -190,7 +197,6 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
     [*The Business of Being a Writer*](https://www.amazon.com/Business-Chicago-Writing-Editing-Publishing/dp/022639316X),
     2018, and [*Publishing 101*](https://www.amazon.com/gp/product/B00QLLDVJY), 2014 ([also on her website](https://www.janefriedman.com/writing-advice-archive/)).
   - Jane Friedman’s [resources page](https://www.janefriedman.com/resources/).
-  -
   - 📖S.K. Quinn,
     [*Indie Author Survival Guide*](https://www.amazon.com/Indie-Author-Survival-Guide-Second/dp/1512090042),
     2nd edition, 2015.
