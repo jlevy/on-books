@@ -68,7 +68,7 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
   - 📖William Zinsser,
     [*Writing to Learn: How to Write—and Think—Clearly About Any Subject at All*](https://www.amazon.com/Writing-Learn-William-Knowlton-Zinsser-dp-0060473983/dp/0060473983),
     1990.
-  - 📖Stephen Pinker,
+  - 📖Steven Pinker,
     [*The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century*](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing-dp-0143127799/dp/0143127799),
     reprint 2015.
   - 📖George D. Gopen,
@@ -226,37 +226,6 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
     [*Write. Publish. Repeat.: The No-Luck-Required Guide to Self-Publishing Success*](https://www.amazon.com/Write-Publish-Repeat-No-Luck-Required-Self-Publishing/dp/1629550523),
     2015.
 
-## The Industry
-
-- Wikipedia:
-  - [Stages of publishing](https://en.wikipedia.org/wiki/Publishing#Stages_of_Publishing)
-  - [List of all-time best-selling books](https://en.wikipedia.org/wiki/List_of_best-selling_books)
-  - [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number)
-  - About 60% of English-language books are produced through the “Big Five” publishing houses:
-    [Penguin Random House](https://en.wikipedia.org/wiki/Penguin_Random_House) ([Bertelsmann](https://en.wikipedia.org/wiki/Bertelsmann_Stiftung)),
-    [Hachette](https://en.wikipedia.org/wiki/Hachette_Book_Group_USA) ([Lagardère](https://en.wikipedia.org/wiki/Lagard%C3%A8re_Group)),
-    [HarperCollins](https://en.wikipedia.org/wiki/HarperCollins) ([News Corp](https://en.wikipedia.org/wiki/News_Corp_(2013%E2%80%93present))),
-    [Simon & Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster) ([National Amusements](https://en.wikipedia.org/wiki/National_Amusements))
-    and [Macmillan](https://en.wikipedia.org/wiki/Macmillan_Publishers) ([Holtzbrinck](https://en.wikipedia.org/wiki/Holtzbrinck_Publishing_Group))[^wiki_book_publishing]
-- [NPD BookScan](https://www.npd.com/wps/portal/npd/us/industry-expertise/books/) —
-  Authoritative POS data, covers 85% of US trade print books sold.
-- News
-  - [Publishers Weekly](https://www.publishersweekly.com/) — Historic and authoritative weekly
-    news source for the international publishing business.
-  - [Publishers Lunch](https://lunch.publishersmarketplace.com/) — Widely read daily newsletter on
-    the publishing industry by [Publishers Marketplace](https://www.publishersmarketplace.com/).
-  - [Shelf Awareness](https://www.shelf-awareness.com/about.html) — Two newsletters, one for
-    readers (twice a week) one for those in the industry (daily).
-- Commentary
-  - 📖[*The Business of Books: How the International Conglomerates Took Over Publishing and Changed the Way We Read*](https://www.amazon.com/Business-Books-International-Conglomerates-Publishing/dp/185984362X)
-    by Andre Schiffrin, 2001.
-  - 📄Keith Gessen,
-    [*The Book On Publishing*](https://www.vanityfair.com/news/2011/10/how-to-publish-fielding-keith-gessen),
-  2011.
-  - 📄Richard Nash,
-    [What Is the Business of Literature?](https://www.vqronline.org/articles/what-business-literature),
-    VQR, Spring 2013.
-
 ## Ebooks
 
 - There are
@@ -304,9 +273,51 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
     — An overview from a technical author on writing using Git workflows.
   - [O’Reilly Atlas toolchain](https://docs.atlas.oreilly.com/)
 
+## The Industry
+
+- Wikipedia:
+  - [Stages of publishing](https://en.wikipedia.org/wiki/Publishing#Stages_of_Publishing)
+  - [List of all-time best-selling books](https://en.wikipedia.org/wiki/List_of_best-selling_books)
+  - [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number)
+  - About 60% of English-language books are produced through the “Big Five” publishing houses:
+    [Penguin Random House](https://en.wikipedia.org/wiki/Penguin_Random_House) ([Bertelsmann](https://en.wikipedia.org/wiki/Bertelsmann_Stiftung)),
+    [Hachette](https://en.wikipedia.org/wiki/Hachette_Book_Group_USA) ([Lagardère](https://en.wikipedia.org/wiki/Lagard%C3%A8re_Group)),
+    [HarperCollins](https://en.wikipedia.org/wiki/HarperCollins) ([News Corp](https://en.wikipedia.org/wiki/News_Corp_(2013%E2%80%93present))),
+    [Simon & Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster) ([National Amusements](https://en.wikipedia.org/wiki/National_Amusements))
+    and [Macmillan](https://en.wikipedia.org/wiki/Macmillan_Publishers) ([Holtzbrinck](https://en.wikipedia.org/wiki/Holtzbrinck_Publishing_Group))[^wiki_book_publishing]
+- [NPD BookScan](https://www.npd.com/wps/portal/npd/us/industry-expertise/books/) —
+  Authoritative POS data, covers 85% of US trade print books sold.
+- News
+  - [Publishers Weekly](https://www.publishersweekly.com/) — Historic and authoritative weekly
+    news source for the international publishing business.
+  - [Publishers Lunch](https://lunch.publishersmarketplace.com/) — Widely read daily newsletter on
+    the publishing industry by [Publishers Marketplace](https://www.publishersmarketplace.com/).
+  - [Shelf Awareness](https://www.shelf-awareness.com/about.html) — Two newsletters, one for
+    readers (twice a week) one for those in the industry (daily).
+- Commentary
+  - 📖[*The Business of Books: How the International Conglomerates Took Over Publishing and Changed the Way We Read*](https://www.amazon.com/Business-Books-International-Conglomerates-Publishing/dp/185984362X)
+    by Andre Schiffrin, 2001.
+  - 📄Keith Gessen,
+    [*The Book On Publishing*](https://www.vanityfair.com/news/2011/10/how-to-publish-fielding-keith-gessen),
+  2011.
+  - 📄Richard Nash,
+    [What Is the Business of Literature?](https://www.vqronline.org/articles/what-business-literature),
+    VQR, Spring 2013.
+
+## Current events
+
+- 📄Claire Fallon,
+  [*How The Publishing World Is Staying Afloat During The Pandemic*](https://www.huffpost.com/entry/how-the-publishing-world-is-staying-afloat-during-the-pandemic_n_5ec431c9c5b69985547b5a5b),
+  May 21, 2020.
+- 🎧Peter Goodman,
+  [*New realities in book publishing in the post-COVID world*], May 28, 2020.
+- Concepción de León and Elizabeth A. Harris,
+  [*#PublishingPaidMe and a Day of Action Reveal an Industry Reckoning*](https://www.nytimes.com/2020/06/08/books/publishingpaidme-publishing-day-of-action.html),
+  June 10, 2020. ([Spreadsheet](https://twitter.com/JaneFriedman/status/1270044937338392576))
+
 ## The Future
 
-- Jean-Claude Carriare and Umberto Eco,
+- 📖Jean-Claude Carriare and Umberto Eco,
   [*This Is Not the End of the Book*](https://www.amazon.com/This-Not-Book-Jean-Claude-Carriare/dp/0810127474),
   2012.
 - 📖Hugh Mcguire, Brian Oleary,
