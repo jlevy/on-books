@@ -91,31 +91,41 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
   - Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts,
     [*Mathematical Writing*](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf),
     1987.
+- Writing online
+  - David Perell,
+    [*The Ultimate Guide to Writing Online*](https://www.perell.com/blog/the-ultimate-guide-to-writing-online)
+    and [*The Online Writing Roadmap*](https://www.perell.com/blog/my-writing-syllabus), 2019.
 - The full list of
   [Chicago Guides to Writing, Editing, and Publishing](https://www.amazon.com/gp/product/B086QQK166)
   has others.
 
 ## Writing (Fiction and Memoir)
 
-- Novelists on writing
-  - 📖Stephen King,
-    [*On Writing: A Memoir Of The Craft*](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816),
-    2010.
-  - 📖Anne Lamott,
-    [*Bird by Bird: Some Instructions on Writing and Life*](https://www.amazon.com/Bird-Some-Instructions-Writing-Life-dp-0385480016/dp/0385480016),
-    1995.
-  - 📖Ray Bradbury,
-    [*Zen in the Art of Writing: Essays on Creativity*](https://www.amazon.com/Zen-Art-Writing-Essays-Creativity/dp/1877741094),
-    1994.
-  - 📖Ursula Le Guin,
-    [*Steering the Craft: A Twenty-First-Century Guide to Sailing the Sea of Story*](https://www.amazon.com/Steering-Craft-Twenty-First-Century-Guide-Sailing/dp/0544611616),
-    2015.
-  - 📖Margaret Atwood,
-    [*Negotiating with the Dead: A Writer on Writing*](https://www.amazon.com/Negotiating-Dead-Writing-Margaret-Atwood/dp/1400032601),
-    2003.
+- Novelists on writing (by date)
   - 📖Virginia Woolf,
     [*A Room of One’s Own*](https://www.amazon.com/Room-Ones-Own-Virginia-Woolf/dp/1614272778),
     reprint of 1929 edition.
+  - Ernest Hemingway,
+    [Paris Review interview](https://www.theparisreview.org/interviews/4825/the-art-of-fiction-no-21-ernest-hemingway),
+    1958.
+  - Doris Lessing,
+    [Paris Review interview](https://www.theparisreview.org/interviews/2537/the-art-of-fiction-no-102-doris-lessing),
+    1988.
+  - 📖Ray Bradbury,
+    [*Zen in the Art of Writing: Essays on Creativity*](https://www.amazon.com/Zen-Art-Writing-Essays-Creativity/dp/1877741094),
+    1994.
+  - 📖Anne Lamott,
+    [*Bird by Bird: Some Instructions on Writing and Life*](https://www.amazon.com/Bird-Some-Instructions-Writing-Life-dp-0385480016/dp/0385480016),
+    1995.
+  - 📖Margaret Atwood,
+    [*Negotiating with the Dead: A Writer on Writing*](https://www.amazon.com/Negotiating-Dead-Writing-Margaret-Atwood/dp/1400032601),
+    2003.
+  - 📖Stephen King,
+    [*On Writing: A Memoir Of The Craft*](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816),
+    2010.
+  - 📖Ursula Le Guin,
+    [*Steering the Craft: A Twenty-First-Century Guide to Sailing the Sea of Story*](https://www.amazon.com/Steering-Craft-Twenty-First-Century-Guide-Sailing/dp/0544611616),
+    2015.
 - 📖Renni Browne and Dave King,
   [*Self-Editing for Fiction Writers: How to Edit Yourself Into Print*](https://www.amazon.com/Self-Editing-Fiction-Writers-Second-Yourself/dp/0060545690),
   2nd edition, 2004.
@@ -304,7 +314,7 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
     [What Is the Business of Literature?](https://www.vqronline.org/articles/what-business-literature),
     VQR, Spring 2013.
 
-## Current events
+## Current Events
 
 - 📄Claire Fallon,
   [*How The Publishing World Is Staying Afloat During The Pandemic*](https://www.huffpost.com/entry/how-the-publishing-world-is-staying-afloat-during-the-pandemic_n_5ec431c9c5b69985547b5a5b),
