@@ -16,6 +16,9 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 
 - Wikipedia: [History of Books](https://en.wikipedia.org/wiki/History_of_books) and
   [History of Printing](https://en.wikipedia.org/wiki/History_of_printing)
+- 📖John Man,
+  [*The Gutenberg Revolution: How Printing Changed the Course of History*](https://www.amazon.com/Gutenberg-Revolution-Printing-Changed-History/dp/0553819666),
+  2010.
 - 📖Amaranth Borsuk,
   [*The Book*](https://www.amazon.com/Book-MIT-Press-Essential-Knowledge/dp/0262535416) (MIT Press
   Essential Knowledge series), 2018.
@@ -49,6 +52,9 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 - 📖William Zinsser,
   [*On Writing Well: The Classic Guide to Writing Nonfiction*](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction-dp-0060891548/dp/0060891548)
   (30th anniversary edition), 2016.
+- 📖William Zinsser,
+  [*Writing to Learn: How to Write—and Think—Clearly About Any Subject at All*](https://www.amazon.com/Writing-Learn-William-Knowlton-Zinsser-dp-0060473983/dp/0060473983),
+  1990.
 - 📖John McPhee,
   [*Draft No. 4: On the Writing Process*](https://www.amazon.com/Draft-No-4-Writing-Process/dp/0374537976/),
   2018.
