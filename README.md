@@ -37,6 +37,9 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 - 📖Mortimer J. Adler and Charles Van Doren,
   [*How To Read a Book: The Classic Guide to Intelligent Reading*](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095/),
   1972.
+- 📖Roland Barthes,
+  [*The Pleasure of the Text*](https://www.amazon.com/Pleasure-Text-Roland-Barthes/dp/0374521603),
+  1975.
 - 📖Barbara Minto,
   [*The Pyramid Principle: Logic in Writing and Thinking*](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516),
   2010.
@@ -49,6 +52,9 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 - 📖William Strunk and E.B. White,
   [*The Elements of Style*](https://www.amazon.com/Elements-Style-Fourth-William-Strunk-ebook-dp-B07NPN5HTP/dp/B07NPN5HTP),
   4th edition.
+- 📖Patricia T. O’Conner,
+  [*Woe is I: The Grammarphobe’s Guide to Better English in Plain English*](https://www.amazon.com/Woe-Grammarphobes-Guide-Better-English/dp/157322331X),
+  3rd edition, 2010.
 - 📖William Zinsser,
   [*On Writing Well: The Classic Guide to Writing Nonfiction*](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction-dp-0060891548/dp/0060891548)
   (30th anniversary edition), 2016.
@@ -197,7 +203,8 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 ## The Industry
 
 - Wikipedia:
-  [Stages of publishing](https://en.wikipedia.org/wiki/Publishing#Stages_of_Publishing)
+  - [Stages of publishing](https://en.wikipedia.org/wiki/Publishing#Stages_of_Publishing)
+  - [List of all-time best-selling books](https://en.wikipedia.org/wiki/List_of_best-selling_books)
 - Wikipedia: [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number)
 - About 60% of English-language books are produced through the “Big Five” publishing houses:
   [Penguin Random House](https://en.wikipedia.org/wiki/Penguin_Random_House) ([Bertelsmann](https://en.wikipedia.org/wiki/Bertelsmann_Stiftung)),
@@ -338,7 +345,7 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 Items here include suggestions from: [Andrew Brookins](https://twitter.com/abrookins),
 [Jean-Marc Davril](https://twitter.com/jmdavril), [Erin Frey](https://twitter.com/erinfrey),
 [Anna Gát](https://twitter.com/TheAnnaGat),
-[Hope Hackett](https://www.linkedin.com/in/hope-hackett-99b17b4/),
+[Hope Hackett](https://www.linkedin.com/in/hope-hackett-99b17b4/), Rachel Meier,
 [Anirudh Pai](https://twitter.com/ani_pai), Justin Seymour,
 [Andy Sparks](https://twitter.com/SparksZilla). Curated by
 [Joshua Levy](https://twitter.com/ojoshe).
