@@ -189,6 +189,17 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
     online resource on typography for beginners and practitioners.
   - [More readings on graphic design and typography](https://booksongraphicdesign.com/) from Theo
     van Beurden.
+- Color and visuals
+  - 📖Josef Albers,
+    [*Interaction of Color*](https://www.amazon.com/Interaction-Color-Anniversary-Josef-Albers/dp/0300179359),
+    50th anniversary edition, 2013 — A classic and definitive work on the use of color.
+  - 📖Edward R. Tufte,
+    [*Envisioning Information*](https://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118)
+    (1990),
+    [*Visual Explanations: Images and Quantities, Evidence and Narrative*](https://www.amazon.com/gp/product/0961392126)
+    (1997),
+    [*The Visual Display of Quantitative Information*](https://www.amazon.com/gp/product/0961392142/)
+    (2nd edition, 2001).
 
 ## Entrepreneurial Advice
 
