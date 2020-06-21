@@ -29,8 +29,11 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
   [*The Printing Revolution in Early Modern Europe*](https://www.amazon.com/Printing-Revolution-Modern-Europe-Classics/dp/1107632757),
   2nd Edition, 2012.
 
-## Thinking
+## Reading and Thinking
 
+- 📖Mortimer J. Adler and Charles Van Doren,
+  [*How To Read a Book: The Classic Guide to Intelligent Reading*](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095/),
+  1972.
 - 📖Barbara Minto,
   [*The Pyramid Principle: Logic in Writing and Thinking*](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516),
   2010.
@@ -128,10 +131,10 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 ## Book Design and Typography
 
 - 📖Mark Argetsinger,
-    [*A Grammar of Typography*](https://www.amazon.com/Grammar-Typography-Classical-Design-Digital/dp/1567926533/)
-    ([more](http://argetsingerbooks.com/grammar-of-typography)), 2020 — An exceptional, modern, and
-    comprehensive overview of traditional book design and typography, with both historic practice and digital
-    typesetting.
+  [*A Grammar of Typography*](https://www.amazon.com/Grammar-Typography-Classical-Design-Digital/dp/1567926533/)
+  ([more](http://argetsingerbooks.com/grammar-of-typography)), 2020 — An exceptional, modern,
+  and comprehensive overview of traditional book design and typography, with both historic
+  practice and digital typesetting.
 - Book design
   - Wikipedia on [book design](https://en.wikipedia.org/wiki/Book_design) including
     [the parts of a book](https://en.wikipedia.org/wiki/Book_design#Structure).
@@ -165,7 +168,8 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 - Advice for writers
   - 📖Jane Friedman,
     [*The Business of Being a Writer*](https://www.amazon.com/Business-Chicago-Writing-Editing-Publishing/dp/022639316X),
-    2018.
+    2018, and [*Publishing 101*](https://www.amazon.com/gp/product/B00QLLDVJY), 2014 ([also on her website](https://www.janefriedman.com/writing-advice-archive/)).
+  - Jane Friedman’s [resources page](https://www.janefriedman.com/resources/).
   - 📖S.K. Quinn,
     [*Indie Author Survival Guide*](https://www.amazon.com/Indie-Author-Survival-Guide-Second/dp/1512090042),
     2nd edition, 2015.
@@ -326,7 +330,8 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 ## Credits
 
 Items here include suggestions from: [Andrew Brookins](https://twitter.com/abrookins),
-[Jean-Marc Davril](https://twitter.com/jmdavril), [Anna Gát](https://twitter.com/TheAnnaGat),
+[Jean-Marc Davril](https://twitter.com/jmdavril), [Erin Frey](https://twitter.com/erinfrey),
+[Anna Gát](https://twitter.com/TheAnnaGat),
 [Hope Hackett](https://www.linkedin.com/in/hope-hackett-99b17b4/),
 [Anirudh Pai](https://twitter.com/ani_pai), Justin Seymour,
 [Andy Sparks](https://twitter.com/SparksZilla). Curated by
