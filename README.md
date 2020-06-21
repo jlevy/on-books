@@ -40,6 +40,8 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 - 📖Roland Barthes,
   [*The Pleasure of the Text*](https://www.amazon.com/Pleasure-Text-Roland-Barthes/dp/0374521603),
   1975.
+- 📖Anne Fadiman,
+  [*Ex Libris*](https://www.amazon.com/Ex-Libris-Confessions-Common-Reader/dp/0374527229), 2000.
 - 📖Barbara Minto,
   [*The Pyramid Principle: Logic in Writing and Thinking*](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516),
   2010.
@@ -182,6 +184,7 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
     [*The Business of Being a Writer*](https://www.amazon.com/Business-Chicago-Writing-Editing-Publishing/dp/022639316X),
     2018, and [*Publishing 101*](https://www.amazon.com/gp/product/B00QLLDVJY), 2014 ([also on her website](https://www.janefriedman.com/writing-advice-archive/)).
   - Jane Friedman’s [resources page](https://www.janefriedman.com/resources/).
+  -
   - 📖S.K. Quinn,
     [*Indie Author Survival Guide*](https://www.amazon.com/Indie-Author-Survival-Guide-Second/dp/1512090042),
     2nd edition, 2015.
