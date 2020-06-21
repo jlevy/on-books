@@ -32,7 +32,7 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
   [*The Printing Revolution in Early Modern Europe*](https://www.amazon.com/Printing-Revolution-Modern-Europe-Classics/dp/1107632757),
   2nd Edition, 2012.
 
-## Reading and Thinking
+## Reading
 
 - 📖Mortimer J. Adler and Charles Van Doren,
   [*How To Read a Book: The Classic Guide to Intelligent Reading*](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095/),
@@ -42,55 +42,52 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
   1975.
 - 📖Anne Fadiman,
   [*Ex Libris*](https://www.amazon.com/Ex-Libris-Confessions-Common-Reader/dp/0374527229), 2000.
-- 📖Barbara Minto,
-  [*The Pyramid Principle: Logic in Writing and Thinking*](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516),
-  2010.
-- 📖Rolf Dobelli,
-  [*The Art of Thinking Clearly*](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli/dp/0062219693),
-  2014.
 
 ## Writing (Nonfiction and General)
 
-- 📖William Strunk and E.B. White,
-  [*The Elements of Style*](https://www.amazon.com/Elements-Style-Fourth-William-Strunk-ebook-dp-B07NPN5HTP/dp/B07NPN5HTP),
-  4th edition.
-- 📖Patricia T. O’Conner,
-  [*Woe is I: The Grammarphobe’s Guide to Better English in Plain English*](https://www.amazon.com/Woe-Grammarphobes-Guide-Better-English/dp/157322331X),
-  3rd edition, 2010.
-- 📖William Zinsser,
-  [*On Writing Well: The Classic Guide to Writing Nonfiction*](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction-dp-0060891548/dp/0060891548)
-  (30th anniversary edition), 2016.
-- 📖William Zinsser,
-  [*Writing to Learn: How to Write—and Think—Clearly About Any Subject at All*](https://www.amazon.com/Writing-Learn-William-Knowlton-Zinsser-dp-0060473983/dp/0060473983),
-  1990.
-- 📖John McPhee,
-  [*Draft No. 4: On the Writing Process*](https://www.amazon.com/Draft-No-4-Writing-Process/dp/0374537976/),
-  2018.
-- 📖George D. Gopen,
-  [*The Sense of Structure: Writing from the Reader’s Perspective*](https://www.amazon.com/Sense-Structure-Writing-Readers-Perspective/dp/0205296327),
-  2004.
-- 📖Mark Forsyth,
-  [*The Elements of Eloquence: Secrets of the Perfect Turn of Phrase*](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing-dp-0143127799/dp/0143127799/),
-  2014.
-- 📖Stephen Pinker,
-  [*The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century*](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing-dp-0143127799/dp/0143127799),
-  reprint 2015.
-- 📖Jefferson D. Bates,
-  [*Writing with Precision: How to Write So That You Cannot Possibly Be Misunderstood*](https://www.amazon.com/Writing-Precision-Cannot-Possibly-Misunderstood/dp/0140288538),
-  2000.
-- 📖Kenneth Roman and Joel Raphaelson,
-  [*Writing That Works: How to Communicate Effectively In Business*](https://www.amazon.com/Writing-Works-Communicate-Effectively-Business-dp-0060956437/dp/0060956437/)
-- 📖Laura Brown,
-  [*The Only Business Writing Book You’ll Ever Need*](https://www.amazon.com/Only-Business-Writing-Book-Youll-ebook/dp/B07DPX15RC),
-  2019.
-- 📖Bryan A. Garner,
-  [*Legal Writing in Plain English: A Text with Exercises*](https://amazon.com/Legal-Writing-Plain-English-Second-dp-0226283933/dp/0226283933),
-  2nd edition, 2013.
-- Jerry Neumann,
-  [two-page summary on business writing](https://twitter.com/ganeumann/status/1227044247964176384)
-- Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts,
-  [*Mathematical Writing*](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf),
-  1987.
+- General writing
+  - 📖William Zinsser,
+    [*On Writing Well: The Classic Guide to Writing Nonfiction*](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction-dp-0060891548/dp/0060891548)
+    (30th anniversary edition), 2016.
+  - 📖Jefferson D. Bates,
+    [*Writing with Precision: How to Write So That You Cannot Possibly Be Misunderstood*](https://www.amazon.com/Writing-Precision-Cannot-Possibly-Misunderstood/dp/0140288538),
+    2000.
+  - 📖Mark Forsyth,
+    [*The Elements of Eloquence: Secrets of the Perfect Turn of Phrase*](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing-dp-0143127799/dp/0143127799/),
+    2014.
+  - 📖John McPhee,
+    [*Draft No. 4: On the Writing Process*](https://www.amazon.com/Draft-No-4-Writing-Process/dp/0374537976/),
+    2018.
+- Thinking and clarity for writers
+  - 📖Barbara Minto,
+    [*The Pyramid Principle: Logic in Writing and Thinking*](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516),
+    2010.
+  - 📖William Zinsser,
+    [*Writing to Learn: How to Write—and Think—Clearly About Any Subject at All*](https://www.amazon.com/Writing-Learn-William-Knowlton-Zinsser-dp-0060473983/dp/0060473983),
+    1990.
+  - 📖Stephen Pinker,
+    [*The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century*](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing-dp-0143127799/dp/0143127799),
+    reprint 2015.
+  - 📖George D. Gopen,
+    [*The Sense of Structure: Writing from the Reader’s Perspective*](https://www.amazon.com/Sense-Structure-Writing-Readers-Perspective/dp/0205296327),
+    2004.
+  - 📖Rolf Dobelli,
+    [*The Art of Thinking Clearly*](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli/dp/0062219693),
+    2014.
+- Business, legal, and technical writing
+  - 📖Kenneth Roman and Joel Raphaelson,
+    [*Writing That Works: How to Communicate Effectively In Business*](https://www.amazon.com/Writing-Works-Communicate-Effectively-Business-dp-0060956437/dp/0060956437/)
+  - 📖Laura Brown,
+    [*The Only Business Writing Book You’ll Ever Need*](https://www.amazon.com/Only-Business-Writing-Book-Youll-ebook/dp/B07DPX15RC),
+    2019.
+  - 📖Bryan A. Garner,
+    [*Legal Writing in Plain English: A Text with Exercises*](https://amazon.com/Legal-Writing-Plain-English-Second-dp-0226283933/dp/0226283933),
+    2nd edition, 2013.
+  - Jerry Neumann,
+    [two-page summary on business writing](https://twitter.com/ganeumann/status/1227044247964176384)
+  - Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts,
+    [*Mathematical Writing*](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf),
+    1987.
 - The full list of
   [Chicago Guides to Writing, Editing, and Publishing](https://www.amazon.com/gp/product/B086QQK166)
   has others.
@@ -127,6 +124,15 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 - 📖Scott Norton,
   [*Developmental Editing: A Handbook for Freelancers, Authors, and Publishers*](https://www.amazon.com/Developmental-Editing-Freelancers-Publishers-Publishing/dp/0226595153/),
   2011.
+
+## Language and Grammar (For Writers and Editors)
+
+- 📖William Strunk and E.B. White,
+  [*The Elements of Style*](https://www.amazon.com/Elements-Style-Fourth-William-Strunk-ebook-dp-B07NPN5HTP/dp/B07NPN5HTP),
+  4th edition.
+- 📖Patricia T. O’Conner,
+  [*Woe is I: The Grammarphobe’s Guide to Better English in Plain English*](https://www.amazon.com/Woe-Grammarphobes-Guide-Better-English/dp/157322331X),
+  3rd edition, 2010.
 - 📖Amy Einsohn,
   [*The Copyeditor’s Handbook: A Guide for Book Publishing and Corporate Communications*](https://www.amazon.com/Copyeditors-Handbook-Publishing-Corporate-Communications/dp/0520271564/),
   3rd edition, 2011.
