@@ -105,10 +105,10 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
   - 📖Virginia Woolf,
     [*A Room of One’s Own*](https://www.amazon.com/Room-Ones-Own-Virginia-Woolf/dp/1614272778),
     reprint of 1929 edition.
-  - Ernest Hemingway,
+  - 🗣Ernest Hemingway,
     [Paris Review interview](https://www.theparisreview.org/interviews/4825/the-art-of-fiction-no-21-ernest-hemingway),
     1958.
-  - Doris Lessing,
+  - 🗣Doris Lessing,
     [Paris Review interview](https://www.theparisreview.org/interviews/2537/the-art-of-fiction-no-102-doris-lessing),
     1988.
   - 📖Ray Bradbury,
