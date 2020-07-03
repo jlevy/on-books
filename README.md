@@ -313,8 +313,7 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
     [*The Business of Books: How the International Conglomerates Took Over Publishing and Changed the Way We Read*](https://www.amazon.com/Business-Books-International-Conglomerates-Publishing/dp/185984362X)
     by Andre Schiffrin, 2001.
   - 📄 Keith Gessen,
-    [*The Book On Publishing*](https://www.vanityfair.com/news/2011/10/how-to-publish-fielding-keith-gessen),
-  2011.
+    [*The Book On Publishing*](https://www.vanityfair.com/news/2011/10/how-to-publish-fielding-keith-gessen), 2011.
   - 📄 Richard Nash,
     [What Is the Business of Literature?](https://www.vqronline.org/articles/what-business-literature),
     VQR, Spring 2013.
@@ -324,8 +323,8 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 - 📄 Claire Fallon,
   [*How The Publishing World Is Staying Afloat During The Pandemic*](https://www.huffpost.com/entry/how-the-publishing-world-is-staying-afloat-during-the-pandemic_n_5ec431c9c5b69985547b5a5b),
   May 21, 2020.
-- 🎧Peter Goodman,
-  [*New realities in book publishing in the post-COVID world*], May 28, 2020.
+- 🎧 Peter Goodman,
+  [*New realities in book publishing in the post-COVID world*](https://insideindependentpublishingwithibpa.simplecast.com/episodes/new-realities-in-book-publishing-in-the-post-covid-world-vkL4Hp9b), May 28, 2020.
 - Concepción de León and Elizabeth A. Harris,
   [*#PublishingPaidMe and a Day of Action Reveal an Industry Reckoning*](https://www.nytimes.com/2020/06/08/books/publishingpaidme-publishing-day-of-action.html),
   June 10, 2020. ([Spreadsheet](https://twitter.com/JaneFriedman/status/1270044937338392576))
