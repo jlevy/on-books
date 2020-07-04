@@ -6,6 +6,8 @@ This is a collection of readings and resources on the past, present, and future 
 The topic is vast, but the idea here is to identify notable and useful books, articles,
 and resources that relate to every stage of writing and publishing books—and the software,
 tools, and formats supporting the process.
+
+Items are marked by medium: 📖books, 🗣interviews, 📄articles, 🎥videos, 🎧podcasts.
 (All in English, for now.)
 
 🚧 This list is far from complete.
