@@ -213,9 +213,10 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
     [*The Visual Display of Quantitative Information*](https://www.amazon.com/gp/product/0961392142/)
     (2nd edition, 2001).
 
-## Entrepreneurial Advice
+## Entrepreneurial Advice for Authors
 
-- Advice for writers
+- Advice for authors
+  - 📖 Anne Trubek, [*So You Want to Publish a Book?*](https://www.amazon.com/So-You-Want-Publish-Book/dp/1948742667), 2020 — A concise introduction for authors to the entire publishing process for print books, by a small publisher.
   - 📖 Jane Friedman,
     [*The Business of Being a Writer*](https://www.amazon.com/Business-Chicago-Writing-Editing-Publishing/dp/022639316X),
     2018, and [*Publishing 101*](https://www.amazon.com/gp/product/B00QLLDVJY), 2014 ([also on her website](https://www.janefriedman.com/writing-advice-archive/)).
@@ -291,8 +292,6 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
 
 ## The Publishing Industry
 
-- Overviews of the publishing process
-  - 📖 Anne Trubek, [*So You Want to Publish a Book?*](https://www.amazon.com/So-You-Want-Publish-Book/dp/1948742667), 2020 — A concise introduction for authors to the entire publishing process for print books, by a small publisher.
 - Wikipedia:
   - [Stages of publishing](https://en.wikipedia.org/wiki/Publishing#Stages_of_Publishing)
   - [List of all-time best-selling books](https://en.wikipedia.org/wiki/List_of_best-selling_books)
