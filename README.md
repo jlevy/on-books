@@ -289,8 +289,10 @@ Please suggest additions to [@ojoshe](https://twitter.com/ojoshe) or
     — An overview from a technical author on writing using Git workflows.
   - [O’Reilly Atlas toolchain](https://docs.atlas.oreilly.com/)
 
-## The Industry
+## The Publishing Industry
 
+- Overviews of the publishing process
+  - 📖 Anne Trubek, [*So You Want to Publish a Book?*](https://www.amazon.com/So-You-Want-Publish-Book/dp/1948742667), 2020 — A concise introduction for authors to the entire publishing process for print books, by a small publisher.
 - Wikipedia:
   - [Stages of publishing](https://en.wikipedia.org/wiki/Publishing#Stages_of_Publishing)
   - [List of all-time best-selling books](https://en.wikipedia.org/wiki/List_of_best-selling_books)
